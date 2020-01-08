@@ -1,0 +1,128 @@
+---
+title: "Hopper data"
+author: "zdenek.vesely@gmail.com"
+date: "1/8/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The map
+
+```{r data}
+library(tidyverse)
+library(httr)
+
+df <- readr::read_csv("puzzle.csv", col_names = c("x", "y"))
+
+summary(df)
+
+df %>% 
+  head(32) %>% 
+  knitr::kable()
+```
+
+There is `r nrow(df)` rows = 2^`r log(nrow(df), 2)`.
+
+Lets Plot the data:
+
+```{r plot0}
+ggplot(df) +
+  geom_point(aes(y, x)) +
+  geom_hline(yintercept = 0) + 
+  geom_vline(xintercept = 0)
+```
+
+It seems like the world.
+As the x is in range `r range(df$x)` and y in `r range(df$y)`, it seems like the latitude and longitude in radian.
+
+```{r positions}
+positions_df <-
+  df %>% 
+  group_by(lat = x* 180 / pi, lon = y* 180 / pi) %>% 
+  summarise(n_obs = length(x))
+
+ggplot(positions_df) + 
+  borders("world") +
+  geom_point(aes(x = lon , y = lat, size = n_obs)) +
+  geom_hline(yintercept = 0) + 
+  geom_vline(xintercept = 0) + 
+  scale_size(trans="log10")
+```
+
+It maps to the map. But What are the points? Lets goggle it...
+
+```{r prepare_google_maps_api}
+GOOGLE_API_KEY <- readr::read_file("google_map_key.txt") # this is my private key, get yours to run it
+
+positions_df <-
+  positions_df %>% 
+  mutate(api_call = 
+           sprintf("https://maps.googleapis.com/maps/api/geocode/json?latlng=%s,%s&key=%s",
+                   lat,
+                   lon,
+                   GOOGLE_API_KEY))
+
+getLongAdress <- function(resp){
+  adress_json <- content(resp,as="parsed")
+  adress_json$results[[1]]$formatted_address
+}
+
+getTypes <- function(resp){
+  adress_json <- content(resp,as="parsed")
+  results <- adress_json$results
+  n_res <- length(results)
+  types <- character()
+  for (i in 1:n_res){
+    types <- c(types, unlist(adress_json$results[[i]]$types))
+  }
+  types %>% unique() %>% sort() 
+}
+
+```
+
+```{r run_google_maps_api, eval = FALSE}
+positions_with_adress_df <-
+  positions_df %>% 
+  mutate(resp = map(api_call, GET),
+         long_adress = map(resp, getLongAdress)[[1]],
+         types = map(resp, getTypes),
+         isAirport = map(types, ~"airport" %in% .)[[1]]) %>% 
+  select(-api_call, -resp) %>% 
+  arrange(-n_obs) 
+```
+
+```{r load_pre_run, echo = FALSE}
+load(file = "poz_with_adress.Rdata") 
+positions_with_adress_df <- 
+  poz_loc2 %>% 
+  select(-api_call, -resp) %>% 
+  arrange(-n_obs) 
+```
+
+```{r show_results}
+positions_with_adress_df %>% 
+  mutate(types = map(types, ~ paste(.,collapse = ", "))[[1]]) %>% 
+  kableExtra::kable() %>%
+  kableExtra::kable_styling() %>%
+  kableExtra::scroll_box(height = "800px")
+```
+
+The `r positions_with_adress_df %>% ungroup() %>% summarise(mean(isAirport)) %>% pull() * 100`% of the records are recognized as airports.
+(Manual check shows the others are also very near to airports.)
+
+
+```{r save_it}
+positions_with_adress_df %>% 
+  select(-types) %>% 
+  readr::write_csv("airports.csv")
+```
+
+But what is next? Why is there there exactly 2^10 records?
+Why is there the Taiwan airport 101 times?
+
+
+Are those just some random flight orders data from Hopper? 
+Not likely, there would be much more repetition.
