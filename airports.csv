@@ -1,0 +1,913 @@
+lat,lon,n_obs,long_adress,isAirport
+22.755001644886793,121.10199823814489,101,"No. 492, Section 2, Shanxi Road, Taitung City, Taitung County, Taiwan 950",TRUE
+-22.235598214866847,114.08899482574358,2,"Unnamed Road, Learmonth WA 6707, Australia",TRUE
+-3.776278884037986,-38.532597745183786,2,"Aeroporto Internacional de Fortaleza - Aeroporto, Fortaleza - CE, 60741-900, Brazil",TRUE
+3.5432225712905723,-76.38159954499699,2,"aeropuerto cali, Único Centro Comercial, Cl. 52 #3-29, Cali, La Esmeralda, Palmira, Valle del Cauca, Colombia",TRUE
+36.47519797611622,-82.4074024059658,2,"979 Hamilton Rd, Blountville, TN 37617, USA",TRUE
+39.551700586649126,2.738812745238702,2,"Palma de Mallorca Airport (PMI), 07611 Palma, Illes Balears, Spain",TRUE
+40.88599897037184,14.29079926982226,2,"Naples International Airport (NAP), Viale F. Ruffo di Calabria, 80144 Napoli NA, Italy",TRUE
+40.97689872456934,28.814597556612423,2,"Yeşilköy, Yeşilköy Havaalanı, Atatürk Havaalanı Yolcu Girişi, 34149 Bakırköy/İstanbul, Turkey",TRUE
+41.24810256731656,-8.681387756886817,2,"R. do Paíço 819, 4470-558 Lavra, Portugal",TRUE
+42.696694572011964,23.411433661190223,2,"Unnamed Road, 1540 Летище София, Sofia, Bulgaria",TRUE
+51.28950305377157,6.766780529521757,2,"Düsseldorf International Airport (DUS), Flughafenstraße 105, 40474 Düsseldorf, Germany",TRUE
+51.57139828897593,0.6955535745549655,2,"London Southend Airport (SEN), Eastwoodbury Cres, Southend-on-Sea SS2 6YF, UK",TRUE
+61.17440011848659,-149.9960020155845,2,"W Perimeter Rd, Anchorage, AK 99502, USA",TRUE
+-53.00260102458912,-70.8545965517352,1,"Entrada Estacionamiento Aeropuerto, Punta Arenas, Magallanes y la Antártica Chilena, Chile",TRUE
+-45.02109840318845,168.73899848036055,1,"Queenstown Airport (ZQN) Sir Henry Wigley Drive, Frankton, Queenstown 9300, New Zealand",TRUE
+-43.48939887030931,172.53199627286048,1,"Unnamed Road, Harewood, Christchurch 8053, New Zealand",TRUE
+-42.836100933145254,147.50999543829136,1,"1309 Tasman Highway, Cambridge TAS 7170, Australia",TRUE
+-41.327199390934375,174.80499433065782,1,"24 George Bolt Street, Rongotai, Wellington 6022, New Zealand",TRUE
+-41.15119821542609,-71.15750214928701,1,"Unnamed Road, Río Negro, Argentina",TRUE
+-38.039395675135175,144.46899329274476,1,"Unnamed Road, Avalon VIC 3212, Australia",TRUE
+-37.93420062394915,-57.57329735073189,1,"Astor Piazzolla International Airport, Autovia 2 Km 398.5, Mar del Plata, Buenos Aires, Argentina",TRUE
+-37.67330429193633,144.8430029526723,1,"Melbourne Tullamarine Airport, VIC 3043 Tullamarine Fwy, Melbourne Airport VIC 3045, Australia",TRUE
+-37.00810029178945,174.7920053774422,1,"4701652, Auckland Domestic Airport, Mangere, Auckland 2022, New Zealand",TRUE
+-35.30690265437676,149.1950070179916,1,"Canberra Airport (CBR), Terminal Cct, Australian Capital Territory 2609, Australia",TRUE
+-34.94499959266033,138.53100767303562,1,"Adelaide Airport (ADL), 1 James Schofield Dr, Adelaide Airport SA 5950, Australia",TRUE
+-34.83840079487624,-56.030797563414545,1,"Uso interno del Aeropuerto, 14000 Ciudad de la Costa, Departamento de Canelones, Uruguay",TRUE
+-34.82219754842994,-58.535797691616246,1,"Unnamed Road, Ezeiza, Buenos Aires, Argentina",TRUE
+-34.55919846130899,-58.415602605353705,1,"Aeroparque Internacional Jorge Newbery (AEP), Av. Costanera Rafael Obligado s/n, C1425 CABA, Argentina",TRUE
+-33.96480058548437,18.601699342918867,1,"Drop-and-Go, Cape Town International Airport, Cape Town, 7490, South Africa",TRUE
+-33.9460992430513,151.176999811642,1,"M1, Mascot NSW 2020, Australia",TRUE
+-33.393000165099714,-70.78579577969589,1,"Camino A Lampa 9978, Pudahuel, Región Metropolitana, Chile",TRUE
+-32.8317020610998,-68.79289959920416,1,"Constitución, Las Heras, Mendoza, Argentina",FALSE
+-31.94030005301322,115.9670015091557,1,"Perth Airport (PER), Perth Airport WA 6105, Australia",TRUE
+-31.323602659802102,-64.20799964932009,1,"Costa Canal, Córdoba, Argentina",TRUE
+-29.99439787087811,-51.17139926346125,1,"Av. Dique, Porto Alegre - RS, Brazil",TRUE
+-29.614446638615057,31.119721357982755,1,"Unnamed Road, La Mercy, 4399, South Africa",TRUE
+-28.164399321120015,153.50500754734983,1,"Unnamed Road, Tweed Heads West NSW 2485, Australia",TRUE
+-27.670280518599196,-48.55250085516547,1,"Rod. Ac. ao Aeroporto - Base Aérea, Florianópolis - SC, 88047-902, Brazil",TRUE
+-27.450001164683197,-59.05610066537456,1,"Unnamed Road, Resistencia, Chaco, Argentina",TRUE
+-27.38419696191242,153.1170062580652,1,"11 Dryandra Rd, Brisbane Airport QLD 4008, Australia",TRUE
+-26.139199780138803,28.24599997030255,1,"O.R. Tambo International Airport (JNB), 1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",TRUE
+-25.73729853474429,-54.47340087342379,1,"Cataratas International Airport, Camino Anexo Ruta Provincial 101, N3370, Misiones, Argentina",TRUE
+-25.600281407616702,-54.485003268775195,1,"Destacamento de Proteção ao Vôo de Foz do Iguaçu - Aeroporto Internacional - s/n, Foz do Iguaçu - PR, 85863-460, Brazil",TRUE
+-25.528501255042713,-49.175798722176495,1,"Unnamed Road - Águas Belas, São José dos Pinhais - PR, 83010, Brazil",TRUE
+-25.23999981646049,-57.52000081662882,1,"Rampa de Acceso al Aeropuerto Internacional Silvio Pettirossi, Luque, Paraguay",TRUE
+-24.55520065972013,25.91819849940094,1,"Sir Seretse Khama International Airport, 9351 Letlametlo, Gaborone, Botswana",TRUE
+-23.62610948786984,-46.65638870542723,1,"embarque congonhas - s/nº, Av. Washington Luís - Vila Congonhas, São Paulo - SP, 04626-911, Brazil",TRUE
+-23.43555518436523,-46.473059399719226,1,"Unnamed Road - Aeroporto, Guarulhos - SP, 07181, Brazil",TRUE
+-23.333597344721703,-51.130100465588214,1,"Av. Salgado Filho, 1334 - Jardim Califórnia, Londrina - PR, 86040-000, Brazil",TRUE
+-23.00740101279782,-47.1344990671521,1,"Unnamed Road - Jardim Aeroporto de Campinas, Campinas - SP, Brazil",TRUE
+-22.910502390485295,-43.163099405982315,1,"Rio de Janeiro Airport RJ Santos Dumont (SDU) - Praça Sen. Salgado Filho, s/n - Centro, Rio de Janeiro - RJ, 20021-340, Brazil",TRUE
+-22.809999863641398,-43.25055568383109,1,"Av. Vinte de Janeiro, 2413-2437 - Galeão, Rio de Janeiro - RJ, 21941-570, Brazil",TRUE
+-22.479901689132674,17.470898379292773,1,"Unnamed Road, Namibia",TRUE
+-20.46869950708651,-54.6724979776538,1,"Campo Grande International Airport (CGR) - Av. Duque de Caxias, s/n - Vila Serradinho, Campo Grande - MS, 79101-901, Brazil",TRUE
+-20.43020247283167,57.68360318545047,1,"A 10, Mauritius",TRUE
+-20.258057303284616,-40.28638717861153,1,"Eurico de Aguiar Salles Airport (VIX) - Av. Roza Helena Schorling Albuquerque, S/N - Aeroporto, Vitória - ES, 29075-685, Brazil",TRUE
+-19.62444046638329,-43.97194392536849,1,"Unnamed Road, Confins - MG, 33500-000, Brazil",TRUE
+-18.79690033414199,47.478800865402114,1,"N52, Antananarivo, Madagascar",TRUE
+-18.053298518887352,-70.27580031667199,1,"SANTA ROSA CARLOS AIRPORT Ciriani, Tacna 23004, Peru",TRUE
+-17.931802818429862,31.092798071189556,1,"Robert Gabriel Mugabe Airport (HRE), Harare, Zimbabwe",TRUE
+-17.755400572464985,177.44299515184323,1,"Unnamed Road, Nadi, Fiji",TRUE
+-17.644802529270883,-63.135399738523375,1,"Unnamed Road, Bolivia",TRUE
+-17.55370223984508,-149.60699232058042,1,"Fa'a'ā International Airport, Faaa, French Polynesia",TRUE
+-16.88579960848313,145.75500279349384,1,"Bush Pilots Ave, Aeroglen QLD 4870, Australia",TRUE
+-16.63200222355198,-49.220701424580895,1,"Goiânia Airport (GYN) - Alameda 4, s/n - Santa Genoveva, Goiânia - GO, Brazil",TRUE
+-16.513302557134725,-68.19229659045828,1,"Avenida Carrasco, El Alto, Bolivia",TRUE
+-16.444398652692293,-151.7510061195379,1,"Bora Bora Airport, French Polynesia",TRUE
+-16.43860031980557,-39.08089543681218,1,"Estr. do Aeroporto, s/n, Box 18 Aeroporto Internacional de, Porto Seguro - BA, 45810-000, Brazil",TRUE
+-16.34110009180816,-71.58310092908815,1,"Unnamed Road, Cerro Colorado 04017, Peru",TRUE
+-15.869166215114802,-47.920832074767596,1,"EPAR - Lago Sul, Brasília - DF, 70297-400, Brazil",TRUE
+-15.652897565764722,-56.11670112563851,1,"International Airport of Várzea Grand MT Marechal Rondon (CGB) - Av. João Ponce de Arruda, s/n - Jardim Aeroporto, Várzea Grande - MT, 78110-900, Brazil",TRUE
+-15.467098811959696,-70.15820072922139,1,"Inca Manco Capac International Airport, Juliaca, Peru",TRUE
+-15.330797882076025,28.45260282164877,1,"Baobab Street, Lusaka, Zambia",TRUE
+-13.53569819161935,-71.93879885788331,1,"Via Expresa 1700, Cusco 08006, Peru",TRUE
+-12.908613073582519,-38.32249985128726,1,"R. Eng. José Afonso Teixeira, Salvador - BA, Brazil",TRUE
+-12.613597104869658,-69.22859962493344,1,"Unnamed Road, Puerto Maldonado, Peru",TRUE
+-12.1607026157085,-76.99889854389298,1,"Las Alondras 105, Santiago de Surco 15054, Peru",FALSE
+-9.510807190696148,-35.791699433570805,1,"Zumbi dos Palmares Int'l Airport - Rodovia BR, 104 Km 91 - Tabuleiro do Pinto, Rio Largo - AL, 57100-971, Brazil",TRUE
+-8.858368690224777,13.231199771397074,1,"Unnamed Road, Luanda, Angola",TRUE
+-8.748171717487267,115.16699772854838,1,"Ngurah Rai International Airport (DPS), Jalan Raya Gusti Ngurah Rai, Tuban, Kuta, Kabupatén Badung, Bali 80362, Indonesia",TRUE
+-8.377937849429632,-74.57430158308196,1,"Av. Diagonal Nte, Pucallpa 25004, Peru",TRUE
+-8.126489591458517,-34.92359961901219,1,"Recife International Airport (REC) - Praça Min. Salgado Filho, s/n - Imbiribeira, Recife - PE, 51210-902, Brazil",TRUE
+-8.081409272137627,-79.10880416530632,1,"Jr Libertad, Huanchaco 13000, Peru",TRUE
+-7.379828181577883,112.78699980251038,1,"Juanda International Airport (SUB), Jl. Ir. H. Juanda, Betro, Kec. Sedati, Kabupaten Sidoarjo, Jawa Timur 61253, Indonesia",TRUE
+-7.145832218046456,-34.9486149563476,1,"Presidente Castro Pinto International Airport - Av. Mal. Rondon, s/n - Aeroporto, Bayeux - PB, 58308-901, Brazil",TRUE
+-7.139180178044986,-78.48940241130221,1,"Mayor General FAP Armando Revoredo Iglesias Airport, Av Hoyos Rubio 1804, Cajamarca 06001, Peru",TRUE
+-6.878111958693627,39.20259740207592,1,"Unnamed Road, Dar es Salaam, Tanzania",TRUE
+-6.787481494659832,-79.82810111089152,1,"Unnamed Road, Chiclayo 14008, Peru",FALSE
+-6.508737527328687,-76.37319998372035,1,"Carr a Sta Rosa, Tarapoto 22201, Peru",FALSE
+-6.125572001834949,106.65599616077758,1,"Jl. C3 No.831, RT.001/RW.010, Pajang, Benda, Kota Tangerang, Banten 15126, Indonesia",TRUE
+-5.911417566748901,-35.24769892540589,1,"R. Otávio Gomes de Castro, Parnamirim - RN, 59148-902, Brazil",FALSE
+-5.2057512871098774,-80.6163993637443,1,"Corpac 247, Piura 20003, Peru",TRUE
+-4.674338661703991,55.52179904695417,1,"E Coast Rd, Victoria, Seychelles",TRUE
+-4.385751279452497,15.444598759344908,1,"Kinshasa, Democratic Republic of the Congo",FALSE
+-3.7847414706720683,-73.30879824182061,1,"Calle las Flores, Iquitos 16008, Peru",FALSE
+-3.552527405883497,-80.38140072407141,1,"Carretera al Aeropuerto, Tumbes 24000, Peru",FALSE
+-3.4294102348657858,37.07450037066716,1,"Unnamed Road, Tanzania",TRUE
+-3.038607181962954,-60.04970115537863,1,"Manau International Airport AM Eduardo Gomes (MAO) - Av. Santos Dumont, 1350 - Tarumã, Manaus - AM, 69041-000, Brazil",TRUE
+-2.889471997468352,-78.98439783924957,1,"Del Ruiz 2-23, Cuenca, Ecuador",TRUE
+-2.157421011363553,-79.8835978029279,1,"Aeropuerto Internacional José Joaquín De Olmedo, José Joaquín de Olmedo, Av de Las Américas, Guayaquil 090513, Ecuador",TRUE
+-1.9686314178679467,30.13949943249499,1,"KN 5 Rd, Kigali, Rwanda",TRUE
+-1.3792526523286743,-48.47629746841307,1,"Alameda De Gemeos Lot Eunice Weaver, 35 - Val de Caes, Belém - PA, 66115-222, Brazil",TRUE
+-1.3192410528666716,36.92780025680186,1,"Unnamed Road, Nairobi, Kenya",TRUE
+-0.4537596554318068,-90.26590244790779,1,"Seymour Airport, Aeropuerto Seymour de Baltra, Isla Baltra Baltra, Ecuador",TRUE
+-0.1291676053342928,-78.35750179728514,1,"PerishableCenter, Corredor Periférico Sur, Quito 170183, Ecuador",TRUE
+0.0423874176837783,32.443500236586864,1,"Entebbe International Airport, 14 Kitaasa Rd, Entebbe, Uganda",TRUE
+1.350192232959639,103.99400559671002,1,"T2 Vip Dr, Singapore",TRUE
+2.745579376799197,101.7100010196682,1,"KLIA Satellite Building, Klia Satelite A Building, 64000, Klia Departure, Kuala Lumpur International Airport, 43900 Sepang, Selangor, Malaysia",TRUE
+3.72255836116652,11.55329859793441,1,"Alongside Airport Rd, Yaounde, Cameroon",TRUE
+4.006080796509058,9.719478419682796,1,"Unnamed Road, Douala, Cameroon",TRUE
+4.191827984112519,73.52910051404842,1,"Domestic Terminal, Airport Main Rd, Malé, Maldives",TRUE
+4.452781611904852,-75.76639757163116,1,"El Edén International Airport, Cl. 23 #22-08, Armenia, El Eden, Armenia, Quindío, Colombia",TRUE
+4.701588534440412,-74.14689798622618,1,"Unnamed Road, Bogotá, Colombia",TRUE
+4.812667862182424,-75.73949720314977,1,"Av. 30 de Agosto #63-745, Pereira, Risaralda, Colombia",TRUE
+5.015489192080785,6.9495884436361965,1,"Omagwa, Nigeria",FALSE
+5.261391218595032,-3.926290693959138,1,"Unnamed Road, Abidjan, Côte d'Ivoire",TRUE
+5.297138055433244,100.2769991965783,1,"Penang International Airport (PEN), Lapangan Terbang Antarabangsa Bayan Lepas, 11900 Bayan Lepas, Pulau Pinang, Malaysia",TRUE
+5.452827877104142,-55.18779902986061,1,"Johan Adolf Pengel International Airport, Luchthavenlaan 1, Paramaribo, Suriname",TRUE
+5.605188813985331,-0.16678801416258265,1,"Kotoka International Airport, Airport Rd, Accra, Ghana",TRUE
+5.937212126685692,116.05100285149982,1,"Jalan Johor, Tanjung Aru, 88100 Kota Kinabalu, Sabah, Malaysia",TRUE
+6.057997359477221,125.09600108433258,1,"Terminal Road, General Santos City, 9500 South Cotabato, Philippines",TRUE
+6.164538861481796,-75.42309844952263,1,"Unnamed Road, Rionegro, Antioquia, Colombia",TRUE
+6.165610292558691,1.2545082811727915,1,"Unnamed Road, Lomé, Togo",TRUE
+6.23379227017926,-10.36230268835187,1,"Roberts International Airport, Harbel, Liberia",TRUE
+6.357230297562244,2.3843524052810183,1,"Rue 2100, Cotonou, Benin",TRUE
+6.4985503377312615,-58.25410299164019,1,"Unnamed Road, Guyana",FALSE
+6.577372141607409,3.3211613186317193,1,"International Terminal Ikeja Lagos, Ikeja, Lagos, Nigeria",TRUE
+7.125520864209067,125.64600619019045,1,"Nueva Ecija St, Buhangin, Davao City, Davao del Sur, Philippines",TRUE
+7.1265006220387415,-73.18479871579841,1,"Aeropuerto Internacional Palonegro, Lebrija, Santander, Colombia",TRUE
+7.18075972523763,79.88410200578761,1,"Bandaranaike International Airport (CMB), Canada Friendship Rd, Katunayake 11450, Sri Lanka",TRUE
+7.367652828431354,134.54400637110444,1,"Palau International Airport, Airai, Palau",TRUE
+7.565380563531001,-72.0351016040889,1,"Mayor Buenaventura Vivas Airport, 5032, Táchira, Venezuela",TRUE
+7.927570104144998,-72.51149882200632,1,"Unnamed Road, Cúcuta, Norte de Santander, Colombia",FALSE
+8.113202700189435,98.3169048498578,1,"4031, Tambon Mai Khao, Amphoe Thalang, Chang Wat Phuket 83110, Thailand",TRUE
+8.482118765318269,76.92009965832862,1,"36/1757,No.2,V.K.K.Nagar,Vallakadavu(po),West Fort,-695008, Vallakkadavu, Thiruvananthapuram, Kerala 695008, India",TRUE
+8.616437261230788,-13.195498771182473,1,"Unnamed Road, Sierra Leone",FALSE
+8.977887686289067,38.799303869239225,1,"Addis Ababa Bole Airport, Ethiopia, international airport, አዲስ አበባ, Ethiopia",TRUE
+9.006787677475467,7.263168244911297,1,"Unnamed Road, Abuja, Nigeria",TRUE
+9.07136002098671,-79.3834973210259,1,"Tocumen Int'l Airport, Panama City, Panama",FALSE
+9.547791616371844,100.06199678395546,1,"99 หมู่4 สนามบินสมุย, ตำบลบ่อผุด อำเภอเกาะสมุย จังหวัดสุราษฎร์ธานี, 84140 Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",TRUE
+9.576892142786539,-13.611998981196923,1,"matoto dabompa, Conakry, Guinea",TRUE
+9.742121711746364,118.7590019265164,1,"Puerto Princesa International Airport, Puerto Princesa City, Palawan, Barangay San Miguel, Puerto Princesa, Palawan, Philippines",TRUE
+9.993862178192995,-84.20879890259096,1,"Calle La Candela, Alajuela Province, Alajuela, Costa Rica",TRUE
+10.149735346358336,-67.92839795959897,1,"Calle Venezuela, Flor Amarillo 2003, Carabobo, Venezuela",FALSE
+10.151998529649102,76.40189943967846,1,"Koolikkara Rd, Kerala 683111, India",TRUE
+10.307499275247606,123.97899694441321,1,"Mactan International Airport, Lapu-Lapu City, Cebu, Philippines",TRUE
+10.44240218811116,-75.5130012571566,1,"Cl. 73 #1419, Cartagena, Provincia de Cartagena, Bolívar, Colombia",FALSE
+10.558208417663002,-71.72785871602794,1,"Airport La Chinita, Av. Don Manuel Belloso, Maracaibo 4004, Zulia, Venezuela",TRUE
+10.593302082614764,-85.54440363008658,1,"Daniel Oduber International Airport / Liberia Airport, 1B Liberia Airport, Boulevard, Guanacaste Province, Liberia, 50101, Costa Rica",TRUE
+10.595399108144944,-61.33720034639504,1,"Piarco International Airport (POS), Golden Grove Rd, Piarco, Trinidad and Tobago",TRUE
+10.603116849645355,-66.99058637010678,1,"Simon Bolivar, Maiquetía, Vargas, Venezuela",FALSE
+10.776402205204722,123.01500118368355,1,"New Bacolod-Silay International Airport, Airport Road, Silay City, 6116 Negros Occidental, Philippines",TRUE
+10.818801082044404,106.65200264494551,1,"Unnamed Road, Phường 15, Tân Bình, Hồ Chí Minh, Vietnam",TRUE
+10.833016164941599,122.49335748868467,1,"Iloilo International Airport (ILO), Iloilo Airport Access Road,Cabatuan 5031,Iloilo, Cabatuan, Iloilo, Philippines",TRUE
+10.889601476788716,-74.78080130202507,1,"Unnamed Road, Soledad, Atlántico, Colombia",TRUE
+11.029999054907575,77.04340590541874,1,"Civil Aerodrome Post, Peelamedu, Tamil Nadu, India",FALSE
+11.119598194910132,-74.23060139051685,1,"Calle 158, Santa Marta, Magdalena, Colombia",FALSE
+11.136798387919962,75.95530175668578,1,"Unnamed Road, Karipur, Kerala 673647, India",TRUE
+11.149701397466307,-60.83220107534469,1,"Lighthouse Road, Crown Point, Trinidad and Tobago",TRUE
+11.54660072130933,104.8439999449425,1,"អាកាសយានដ្ឋានអន្តរជាតិភ្នំពេញ, Russian Federation Blvd. (110), Phnom Penh, Cambodia",TRUE
+11.679400879064751,122.375998543508,1,"Kalibo Airport Control Tower Access Road, Kalibo, Aklan, Philippines",TRUE
+12.004199193968516,-61.786198722549315,1,"Saint George, Grenada",FALSE
+12.131000483608917,-68.26849997721067,1,"Bonaire International Airport, Plasa Medardo SV Thielman 1, Kralendijk, Caribbean Netherlands",TRUE
+12.141502799993665,-86.16819997037935,1,"Unnamed Road, Managua 11072, Nicaragua",TRUE
+12.188897868806887,-68.95980220492577,1,"Curaçao International Airport (CUR), Plasa Margaret Abraham z/n CW, Curaçao",TRUE
+12.353199246138601,-1.51241950307298,1,"Aéroport international de, Ouagadougou, Burkina Faso",TRUE
+12.50140050942714,-70.01519619313468,1,"Bucutiweg 34, Oranjestad, Aruba",TRUE
+12.533497605110368,-7.949938376466906,1,"secondary Rte, Bamako, Mali",TRUE
+12.58360276429456,-81.71120138910233,1,"Cra. 14 #15-2 a 15-708, San Andrés, San Andrés y Providencia, Colombia",TRUE
+12.990007457958804,80.16929747789192,1,"Unnamed Road, Meenambakkam, Chennai, Tamil Nadu 600016, India",TRUE
+13.074598946831918,-59.4924996996139,1,"Unnamed Road, Barbados",TRUE
+13.144299262609584,-61.21089753003641,1,"Arnos Vale Playing Field, Arnos Vale, St Vincent and the Grenadines",TRUE
+13.19789946434407,77.70630088565125,1,"Kia Parking Area P6, Hunachur, Karnataka 560300, India",TRUE
+13.33799910440946,-16.65219898583034,1,"Former Transoceanic Abort Landing Site of NASA, Unnamed Road, Yundum, The Gambia",TRUE
+13.410701719033609,103.81300249965024,1,"វិថី គោក​ដូង, អាគាររ រដ្ឋបាល, សង្កាត់ ទឹកវិល, Krong Siem Reap, Cambodia",TRUE
+13.440902324414955,-89.05570099303246,1,"RN-5, El Salvador",FALSE
+13.48339860407981,144.79600322473772,1,"Aeroporto de Guam, Tamuning, 96913, Guam",TRUE
+13.681097691289699,100.74700220550207,1,"Unnamed Road, Tambon Nong Prue, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",TRUE
+13.733202473178897,-60.952596696835535,1,"Hewanorra International Airport Beanfield ATM12, St Lucia",TRUE
+14.020202762337878,-60.99289854814503,1,"George F.L. Charles Airport, Peninsular Rd, St Lucia",TRUE
+14.06089995452602,-87.21719974959461,1,"Aeropuerto Internacional Toncontín, Tegucigalpa, Col. 15 de Septiembre, Tegucigalpa, Honduras",TRUE
+14.508597716485344,121.01999651850574,1,"Sky Pasada - Manila International Airport Authority, Ninoy Aquino International Airport Terminal 4, Moonwalk Access Road, Pasay, 1301 Metro Manila, Philippines",TRUE
+14.5832999538145,-90.52749778843067,1,"La Aurora International Airport, Central America, 9 Avenida 14-75, Guatemala 01013, Guatemala",TRUE
+14.591000506581059,-61.00320032930148,1,"Aéroport international Aimé Césaire 42 FR, Le Lamentin, Martinique",TRUE
+14.73970024315136,-17.49020132741073,1,"Unnamed Road, Dakar, Senegal",TRUE
+15.118998303527965,145.7290019687508,1,"Saipan International Airport (SPN), I Fadang, Saipan 96950, CNMI",TRUE
+15.185999988090563,120.55999735268497,1,"OMNI Driveway, Clark Freeport, Mabalacat, Pampanga, Philippines",TRUE
+15.291899777364597,38.910704053346514,1,"Hday St, Asmara, Eritrea",TRUE
+15.380799908857092,73.8313987763374,1,"Goa International Airport (GOI), Airport Rd, Dabolim, Goa 403801, India",TRUE
+15.452597250164935,-87.9235994152114,1,"Unnamed Road, La Lima, Honduras",TRUE
+15.476300514149496,44.21970233513896,1,"Sana'a International Airport | Yemen, Airport Road, Sana'a, Yemen",TRUE
+15.546997776490688,-61.2999981967572,1,"Douglas-Charles Airport, Melville Hall Road, Dominica",TRUE
+15.589499785733496,32.55319873604261,1,"Ebed Khatim St, Al Khurtum, Sudan",TRUE
+15.775298539538518,-96.2626047824619,1,"México 200, Oaxaca, Mexico",TRUE
+16.04390115389585,108.19900015095465,1,"Cảng Hàng Không Quốc Tế Đà Nẵng, Phường Hoà Thuận Tây, Quận Hải Châu, Thành Phố Đà Nẵng, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000, Vietnam",TRUE
+16.316800951716658,-86.52300408501411,1,"Contiguo al Aeropuerto Juan Manuel Galvez, Roatán, Honduras",FALSE
+16.56360252196926,-93.02249980310735,1,"Unnamed Road, 29176 Chis., Mexico",TRUE
+16.757101828540844,-99.75399759160496,1,"Unnamed Road, Aeropuerto, Acapulco de Juárez, Gro., Mexico",TRUE
+16.90730271453439,96.13320226443162,1,"Yangon International Airport, Yangon Airport Rd, Yangon, Myanmar (Burma)",TRUE
+16.99989842380548,-96.7266031936927,1,"Oaxaca International Airport, Km 7.5, Oaxaca - Puerto Angel, Santa Cruz, 71230 Oaxaca de Juárez, Oax., Mexico",TRUE
+17.136697826970916,-61.792701793524046,1,"Burma Rd, Osbourn, Antigua and Barbuda",TRUE
+17.20569913423852,-62.58990381051318,1,"Vance W. Amory International Airport (NEV), New Castle, St Kitts & Nevis",TRUE
+17.231316077258818,78.42985490765426,1,"Departure Dr, Shamshabad, Gollapalle Khurd, Telangana 501218, India",TRUE
+17.31119785305596,-62.71869899328063,1,"Robert L. Bradshaw International Airport. IATA: SKB, Basseterre, St Kitts & Nevis",TRUE
+17.539103275225145,-88.30819733519297,1,"ccc, Terminal 1, Ladyville, Belize",TRUE
+17.601601511518016,-101.4609992914823,1,"Carr Zihuatanejo - Aeropuerto, Guerrero, Mexico",FALSE
+17.701897773555668,-64.79859881496299,1,"Henry E Rohlson Airport, Christiansted, St Croix 00820, USVI",TRUE
+17.721200721673625,83.22450324717983,1,"Visakhapatnam International Airport, NH 16 Opp, Viman Nagar, Visakhapatnam, Andhra Pradesh 530009, India",TRUE
+17.904398247088753,-62.843603792619156,1,"Gustaf III Airport (SBH), St Barthélemy",TRUE
+17.93569893143675,-76.78750003580151,1,"Norman Manley Hwy, Jamaica",TRUE
+17.98830218660771,102.56300339632513,1,"瓦岱機場, Vientiane, Laos",TRUE
+17.996999685937798,-92.81739810118437,1,"Carlos Rovirosa Pérez International Airport, Dos Montes, 86280 Villahermosa, Tab., Mexico",TRUE
+18.008298413657776,-66.56300515633451,1,"Mercedita/Ponce International Airport, PR-1, Ponce, 00715, Puerto Rico",TRUE
+18.041002844603845,-63.10890044049859,1,"102 Airport Rd, Simpson Bay, Sint Maarten",TRUE
+18.134801765244713,-65.49359662045667,1,"Antonio Rivera Rodríguez Airport, Km. 2.6, PR-200, Vieques, 00765, Puerto Rico",TRUE
+18.178100185822746,120.53199690523691,1,"Laoag International Airport, Laoag City, Ilocos Norte, Philippines",TRUE
+18.204800019075847,-63.0550997035358,1,"Long Ground Road, 2640, Anguilla",TRUE
+18.25570158959527,-67.14849926802279,1,"Aeropuerto Eugenio María de Hostos, Camino Aeropuerto, Mayagüez, 00682, Puerto Rico",TRUE
+18.33729650919985,-64.9733967791015,1,"Cyril E. King Airport, Airport Rd, Charlotte Amalie West, St Thomas 00802, USVI",TRUE
+18.429703142398544,-69.66890050175762,1,"Ruta 66 142, Santo Domingo, Dominican Republic",TRUE
+18.43939758829216,-66.0017987255818,1,"Terminal D - SJU, Carolina, 00979, Puerto Rico",TRUE
+18.444800580300242,-64.54299661297718,1,"Rte 2, British Virgin Islands",TRUE
+18.45070204559009,-68.91179407127176,1,"international Airport, La Romana 22000, Dominican Republic",TRUE
+18.494900009906484,-67.12940258471109,1,"Unnamed Road, Aguadilla Pueblo, Aguadilla 00603, Puerto Rico",TRUE
+18.50370064163969,-77.91339648070128,1,"Sangster International Airport, Montego Bay, Jamaica",TRUE
+18.567402089302337,-68.36340470639614,1,"AVIAM, Punta Cana 23000, Dominican Republic",TRUE
+18.580001431217266,-72.29250289355141,1,"Unnamed Road, Pòtoprens, Haiti",TRUE
+18.582098456747445,73.91970303172296,1,"Pune Airport 1, Unnamed Road, Pune International Airport Area, Lohegaon, Pune, Maharashtra 411032, India",TRUE
+18.766797131585818,98.96259963708049,1,"Chiang Mai International Airport (CNX), 60 Mahidol Rd, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",TRUE
+19.088702009624164,72.86789575931155,1,"Chhatrapati Shivaji International Airport (BOM), Mumbai, Maharashtra 400099, India",TRUE
+19.144800307345424,-104.55899927848851,1,"Alaska Airlines - Manzanillo, Playa De Oro International, Carretera Manzanillo-Barra De Navidad Km. 42, 28219 Manzanillo, Col., Mexico",TRUE
+19.145900386312075,-96.18730093944787,1,"Veracruz International Airport, Carr. Veracruz-Xalapa Km 13.5, 91698 Veracruz, Ver., Mexico",TRUE
+19.158098657770413,-98.37139886575271,1,"Puebla International Airport, Carr Federal México-Puebla Km 91.5, 74160 Huejotzingo, Pue., Mexico",TRUE
+19.292801035405667,-81.35769788866251,1,"George Town/Owen Roberts Airport, 210 Roberts Dr, George Town, Cayman Islands",TRUE
+19.337096402547235,-99.56600440944456,1,"SAE, Estado de México, Mexico",TRUE
+19.436298315196183,-99.07209760130795,1,"Ciudad De México, México (Lic. Benito Juárez), 15620 Ciudad de México, CDMX, Mexico",TRUE
+19.469902289880604,-70.70059695555994,1,"Calle 19 84, Santiago De Los Caballeros 51000, Dominican Republic",FALSE
+19.687001728033625,-79.8827956620147,1,"South Side Rd W, Cayman Islands",TRUE
+19.72140211405328,-155.04800580794895,1,"216 Kauhane Ave, Hilo, HI 96720, USA",TRUE
+19.738802842291406,-156.04600661381963,1,"Kupipi St, Kailua-Kona, HI 96740, USA",TRUE
+19.757899525603115,-70.56999695573782,1,"Puerto Plata International Airport, 57000, Dominican Republic",TRUE
+19.849899358767267,-101.02500132769956,1,"Unnamed Road, Michoacán, Mexico",TRUE
+20.521801235539236,-103.31099979786842,1,"Unnamed Road, Zapote del Vallle, Jal., Mexico",TRUE
+20.52239711164617,-86.92559860934075,1,"Calle 6, entre 5 y 10, 77600 San Miguel de Cozumel, Q.R., Mexico",TRUE
+20.61730184083164,-100.18599630997767,1,"Querétaro Intercontinental Airport, Qro, Estatal 200, Grande, 76270 Querétaro, Qro., Mexico",FALSE
+20.680098015177975,-105.25399708398221,1,"Alaska Airlines - Puerto Vallarta, International, Carretera A Tepic Km 7.5 Licenciado Gustavo Diaz Ordaz, Área Militar de Vallarta, 48311 Puerto Vallarta, Jal., Mexico",TRUE
+20.78560246357337,-156.95100491038465,1,"Lānaʻi Airport, Lanai Ave, Lanai City, HI 96763, USA",TRUE
+20.89860119992907,-156.4299914689604,1,"Signature Flight Support OGG - Kahului Airport, 25 Kuhea St, Kahului, HI 96732, USA",TRUE
+20.93700083135874,-89.65770201879846,1,"Unnamed Road, Internacional, Mérida, Yuc., Mexico",TRUE
+20.96289852369865,-156.6730057881872,1,"4050 Honoapiilani Hwy, Lahaina, HI 96761, USA",TRUE
+20.993500199536587,-101.48100124811032,1,"Guanajuato International Airport (BJX), Carr. Silao-León Km 5.5, Nuevo México, 36270 Silao, Gto., Mexico",TRUE
+21.036500682061156,-86.87709773198291,1,"Cancun International Airport (CUN), Cancun - Chetumal Km 22, 77565 Cancún, Q.R., Mexico",TRUE
+21.152902787719935,-157.0959918804425,1,"Molokai Airport, 3980 Airport Loop, Ho'olehua, HI 96729, USA",TRUE
+21.22119935689953,105.80699875910862,1,"Airport Hanoi Vietnam, Phú Minh, Sóc Sơn, Hà Nội, Vietnam",TRUE
+21.31869958489694,-157.92199648579287,1,"Lagoon Dr, Honolulu, HI 96819, USA",TRUE
+21.679599970471898,39.15650294745764,1,"RWY 16C/34C, Matar Al Malik Abdul Aziz, جدة 23631, Saudi Arabia",TRUE
+21.70560079521493,-102.31800091354923,1,"Unnamed Road, Aguascalientes, Mexico",TRUE
+21.773599426341057,-72.2659004631235,1,"83 Airport Rd, TKCA 1ZZ, Turks and Caicos Islands",TRUE
+21.976002497048974,-159.33900705682066,1,"3651 Ahukini Rd, Lihue, HI 96766, USA",TRUE
+22.14959724981771,113.59200550466916,1,"Macau International Airport (MFM), Macao",TRUE
+22.254299557299916,-100.93100187183039,1,"Ramal a Aeropuerto de San Luis Potosí, San Luis Potosí, Mexico",TRUE
+22.296400496086125,-97.86589539184263,1,"Calle Francisco Villa 330, José López Portillo, 89338 Tampico, Tamps., Mexico",TRUE
+22.30890243517588,113.91499900251827,1,"Unnamed Road, Chek Lap Kok, Hong Kong",TRUE
+22.336198144535917,73.22630377847769,1,"Vadodara Airport Main Runway, Harni, Vadodara, Gujarat 390022, India",TRUE
+22.577098249498672,120.34999686161362,1,"812, Taiwan, Kaohsiung City, Xiaogang District, 明聖街135巷7弄11號",TRUE
+22.608301531021493,108.17199665007013,1,"China, Guangxi Zhuangzuzizhiqu, Nanning Shi, Jiangnan Qu, 南宁吴圩国际机场港澳台出发",TRUE
+22.639298547738072,113.81099570354613,1,"Shenzhen Bao'an International Airport, Baoan Qu, Shenzhen Shi, Guangdong Sheng, China",TRUE
+22.654699653271187,88.44669842300995,1,"Unnamed Road, Majumder Pada, Motilal Colony, Dum Dum, Kolkata, West Bengal 700052, India",TRUE
+22.897100907657187,-102.68699719276937,1,"Zacatecas International Airport, Tramo, Carretera Federal 45, Zacatecas - Fresnillo 23, 98500 Zac., Mexico",TRUE
+22.989198143646515,-82.40910409061735,1,"Unnamed Road, La Habana, Cuba",TRUE
+23.034398784104386,-81.435305022013,1,"Juan Gualberto Gómez Airport, Matanzas, Cuba",TRUE
+23.077198731400657,72.63469620711535,1,"8/9, Kuber Nagar, Ahmedabad, Gujarat 382340, India",TRUE
+23.151797836326693,-109.72099950836221,1,"Unnamed Road, Baja California Sur, Mexico",TRUE
+23.161400608973086,-106.26600097836588,1,"Unnamed Road, Sinaloa, Mexico",TRUE
+23.392400003235977,113.29900634739516,1,"Unnamed Road, Huadu Qu, Guangzhou Shi, Guangdong Sheng, China",TRUE
+23.56259711627959,-75.87799829096674,1,"Exuma International Airport, Unnamed Road, Moss Town, The Bahamas",TRUE
+23.59330192452065,58.28440099984671,1,"Unnamed Road, Muscat, Oman",TRUE
+23.843346435893693,90.39778014361303,1,"Bawnia Road, Dhaka, Bangladesh",TRUE
+24.07270144128456,-110.36200177124276,1,"Aviación General, 23206 B.C.S., Mexico",TRUE
+24.124198887910918,-104.52800226177195,1,"Unnamed Road, Durango, Mexico",TRUE
+24.433000221174627,54.65109800400566,1,Unnamed Road - Abu Dhabi - United Arab Emirates,TRUE
+24.543999334825322,118.12799777716087,1,"Xin Da Feng Tian Ban Pen Zhong Xin, Huli Qu, Xiamen Shi, Fujian Sheng, China",FALSE
+24.55340157224342,39.7050985771395,1,"Prince Mohammed Bin Abdulaziz International Airport, Medina Saudi Arabia",TRUE
+24.556100203458485,-81.75959913405704,1,"3491 S Roosevelt Blvd, Key West, FL 33040, USA",TRUE
+24.76450214228142,-107.47499922187143,1,"Aeropuerto Internacional de Culiacán (CUL), Carr. A Navolato, Aeropuerto Culiacan, Bachigualato, 80130 Culiacán Rosales, Sin., Mexico",TRUE
+24.896666316884243,55.16139140508303,1,Unnamed Road - Dubai - United Arab Emirates,TRUE
+24.90649827264869,67.1607949423063,1,"Airport Link Rd، Faisal Cantonment, Karachi, Karachi City, Sindh, Pakistan",TRUE
+24.95760037839641,46.698799041422824,1,"AOC مركز عمليات شركات الطيران, King Khalid International Airport, Riyadh 13445, Saudi Arabia",TRUE
+24.992401834872656,102.74400076380695,1,"Unnamed Road, Guandu Qu, Kunming Shi, Yunnan Sheng, China",FALSE
+25.039000492350645,-77.46620292160168,1,"Coral Harbour Rd, Nassau, The Bahamas",TRUE
+25.069401632960286,121.55199929044065,1,"Taipei Songshan Airport (TSA), No. 340-9, DunHua N Rd, Songshan District, Taipei City, Taiwan 10548",TRUE
+25.077698061833782,121.23299930842359,1,"Taiwan Taoyuan International Airport 2nd Terminal 6 Platform, Dayuan District, Taoyuan City, Taiwan 337",TRUE
+25.25279969360371,55.36440181105378,1,"ATC TOWER, Dubai Airport - Dubai International Airport Dubai - Dubai - United Arab Emirates",TRUE
+25.261101852055155,51.56510148280744,1,"Perimeter Rd, Doha, Qatar",FALSE
+25.284701983636598,-76.33100164210899,1,"Queen's Hwy, The Bahamas",TRUE
+25.474901053308223,-76.6835024664073,1,"North Eleuthera Airport ELH, Airport Road, The Bahamas",TRUE
+25.5682989034925,-103.41100385143054,1,"Blvd. Aeropuerto 1598, Aeropuerto Internacional Francisco Sarabia Tinoco, 27016 Torreón, Coah., Mexico",TRUE
+25.778499929792144,-100.10700261876299,1,"Interjet, Aeropuerto Internacional de Monterrey, Carretera Miguel Aleman Km. 24, 66600 Cd Apodaca, N.L., Mexico",TRUE
+25.7932020268152,-80.29060410227703,1,"Miami International Airport (MIA), 2100 NW 42nd Ave, Miami, FL 33126, USA",TRUE
+25.906796639277836,-97.42590391222781,1,"Brownsville South Padre Island International Airport (BRO), 700 Amelia Earhart Dr, Brownsville, TX 78521, USA",TRUE
+25.935100754357304,119.66300327651791,1,"Peng Cheng Lu, Changle District, Fuzhou Shi, Fujian Sheng, China",FALSE
+25.989199429373553,-111.34799911130544,1,"Loreto International Airport, México 1 Km. 5, Centro, 23880 Loreto, B.C.S., Mexico",TRUE
+26.0725991660328,-80.15270462014495,1,"1410-1470 Lee Wagener Blvd, Fort Lauderdale, FL 33312, USA",TRUE
+26.175800324091757,-98.23860443757523,1,"2500 S M St, McAllen, TX 78503, USA",TRUE
+26.19580228071978,127.64600131776388,1,"Unnamed Road, Ōmine, Naha, Okinawa 901-0148, Japan",TRUE
+26.228500982087894,-97.65440521050392,1,"Harlingen VOR-DME HRL 109.2, Harlingen, TX 78550, USA",TRUE
+26.2708024561024,50.63359815863965,1,"Rayya Hwy, Al Hidd, Bahrain",TRUE
+26.47120017452736,49.797899107395686,1,"Dammam Airport parking, Unnamed Road, الدمام 32552, Saudi Arabia",TRUE
+26.511398893433736,-77.083501491922,1,"Leonard M. Thompson International Airport, Marsh Harbour, The Bahamas",TRUE
+26.536202236384952,-81.75520454776837,1,"Southwest Florida International Airport (RSW), 11000 Terminal Access Rd, Fort Myers, FL 33913, USA",TRUE
+26.55870228899974,-78.69560419219184,1,"Tower Rd, Freeport, The Bahamas",TRUE
+26.683200288303716,-80.09559791670424,1,"3200 Belvedere Rd, West Palm Beach, FL 33406, USA",TRUE
+26.745297454139994,-77.39129441946626,1,"S.C.Bootle Hwy, The Bahamas",TRUE
+26.82419947210746,75.81219981777392,1,"Sheopur garh 70/295 k samane, Ganga Vihar Colony, Sanganer, Jaipur, Rajasthan 302029, India",TRUE
+27.395398286807232,-82.55439472830662,1,"Sarasota-Bradenton Int'l Airport, 6000 Airport Cir, Sarasota, FL 34243, USA",TRUE
+27.543800085324065,-99.46160004001582,1,"Laredo International Airport (LRD), 5210 Bob Bullock Loop, Laredo, TX 78041, USA",TRUE
+27.696602199707506,85.35909761998536,1,"Tribhuvan International Airport (KTM), Ring Rd, Kathmandu 44600, Nepal",TRUE
+27.770399163720352,-97.50119629608596,1,"Corpus Christi International Airport, 1000 International Dr, Corpus Christi, TX 78406, USA",TRUE
+27.91220048843728,120.85199956339544,1,"1 Airport Ave, Longwan Qu, Wenzhou Shi, Zhejiang Sheng, China, 325024",FALSE
+27.93189877743388,-15.386598241743815,1,"Gran Canaria Airport (LPA), Autopista GC-1, s/n, 35230, Las Palmas, Spain",TRUE
+27.975500865643333,-82.53320101946471,1,"4001 Bessie Coleman Blvd, Tampa, FL 33607, USA",TRUE
+28.04450217291094,-16.572500556527643,1,"Tenerife South Airport (TFS), 38610, Santa Cruz de Tenerife, Spain",TRUE
+28.102800628565504,-80.64529935493071,1,"Orlando Melbourne International Airport (MLB), 1 Air Terminal Pkwy, Melbourne, FL 32901, USA",TRUE
+28.189196934493282,113.22000119702457,1,"Kong Gang Cheng 3 Hao Lu, Changsha Xian, Changsha Shi, Hunan Sheng, China",FALSE
+28.429398030945972,-81.3089964760764,1,"23 Jeff Fuqua Blvd, Orlando, FL 32827, USA",TRUE
+28.482700294626994,-16.34150116226475,1,"Carretera General Norte Rodeos, 1, 38206, Santa Cruz de Tenerife, Spain",TRUE
+28.566501101742826,77.10310237809342,1,"Indira Gandhi International Airport (DEL), New Delhi, Delhi 110037, India",TRUE
+28.702899434451673,-105.9649976006939,1,"Aeropuerto Chihuahua, Blvd. Juan Pablo II Km. 14, 31390 Chihuahua, Chih., Mexico",TRUE
+28.777601671780825,-81.23750280239997,1,"747 Control Tower Ln, Sanford, FL 32773, USA",TRUE
+28.852601847163456,-96.91850394801585,1,"Victoria Regional Airport, 609 Foster Field Dr, Victoria, TX 77904, USA",TRUE
+28.945501224065964,-13.60519797216872,1,"Avenida Playa Honda, 157, 35509 San Bartolomé, Las Palmas, Spain",TRUE
+29.095896915709858,-111.04799840977495,1,"General Ignacio Pesqueira García International Airport, Aeropuerto, Hermosillo, Son., Mexico",TRUE
+29.17989825805399,-81.05809825758861,1,"2324 Bellevue Ave, Daytona Beach, FL 32114, USA",TRUE
+29.226600047935097,47.96889750420112,1,"Main Runway, Kuwait",TRUE
+29.53369969654727,-98.46980436706642,1,"San Antonio IAP, 9800 Airport Blvd, San Antonio, TX 78216, USA",TRUE
+29.645397818708023,-95.27889927357975,1,"7708 Airport Blvd, Houston, TX 77061, USA",TRUE
+29.69009998588413,-82.27179475501424,1,"Gators VORTAC GNV 116.2, Gainesville, FL 32609, USA",TRUE
+29.719200512298823,106.64199880184252,1,"Chongqing Jiangbei International Airport (CKG), Yubei Qu, China, 401120",TRUE
+29.950801512246606,-94.02070114420631,1,"Air Line Dr, Beaumont, TX 77705, USA",TRUE
+29.98439975735308,-95.3413975098726,1,"John F Kennedy Blvd, Houston, TX 77032, USA",TRUE
+29.993400924314585,-90.25800135991292,1,"Louis Armstrong New Orleans International Airport, 1 Terminal Dr, Kenner, LA 70062, USA",TRUE
+30.12189816902857,31.405598649863276,1,"Airport Rd, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",TRUE
+30.12609794966688,-93.22329859198888,1,"N Airport Dr, Lake Charles, LA 70607, USA",FALSE
+30.194497651249595,-97.66989798928427,1,"Austin South Terminal, 10000 Logistics Ln, Austin, TX 78719, USA",TRUE
+30.205297905687814,-91.98760051523024,1,"Lafayette Regional Airport (LFT), 200 Terminal Dr, Lafayette, LA 70508, USA",TRUE
+30.229499642954142,120.43399820395774,1,"Xiang Fei Lu, Xiaoshan Qu, Hangzhou Shi, Zhejiang Sheng, China",TRUE
+30.34170196797461,-85.79730147127935,1,"Johnny Reaver Rd, Panama City, FL 32409, USA",TRUE
+30.396499651500918,-84.35030228925442,1,"3300 Capital Cir SW, Tallahassee, FL 32310, USA",TRUE
+30.407299905939137,-89.07009942242408,1,"14035 Airport Rd, Gulfport, MS 39503, USA",TRUE
+30.47340204676338,-87.18659807375668,1,"Pensacola International Airport (PNS), 2430 Airport Blvd, Pensacola, FL 32504, USA",TRUE
+30.483199625060116,-86.52539904859776,1,"Unnamed Road, Valparaiso, FL 32580, USA",TRUE
+30.494103011901462,-81.68789919557437,1,"Jacksonville International Airport (JAX), 2400 Yankee Clipper Dr, Jacksonville, FL 32218, USA",TRUE
+30.533201651841186,-91.14959817364986,1,"Baton Rouge Metropolitan Airport (BTR), 9430 Jackie Cochran Dr, Baton Rouge, LA 70811, USA",TRUE
+30.578499695124226,103.94700013919747,1,"Chengdu Shuangliu International Airport (CTU), Shuangliu, Chengdu Shi, Sichuan Sheng, China",TRUE
+30.588600941052384,-96.36380058823792,1,"1 McKenzie Terminal Blvd, College Station, TX 77845, USA",TRUE
+30.69120049342646,-88.24279993245675,1,"8400 Airport Blvd, Mobile, AL 36608, USA",TRUE
+30.782501318080552,-83.27670543189419,1,"2703 Madison Hwy, Valdosta, GA 31601, USA",TRUE
+30.783801932275505,114.20799815979227,1,"China, Wuhan Shi, Huangpi Qu, 天河国际机场",FALSE
+30.917702168997575,29.696402521630567,1,"Unnamed Road, Qetaa Maryout, Al Amaria First, Alexandria Governorate, Egypt",TRUE
+31.067198316903113,-97.828905236589,1,"Unnamed Road, Killeen, TX 76549, USA",TRUE
+31.143401703655506,121.80500026403652,1,"Pu Dong Ji Chang Lu, Pudong Xinqu, Shanghai Shi, China",TRUE
+31.197901449128356,121.33599993125424,1,"Shen Da Yi Lu, Minhang Qu, Shanghai Shi, China",TRUE
+31.258801133172806,-81.46649684437992,1,"Petersville Rd, Brunswick, GA 31525, USA",TRUE
+31.32129936946568,-85.44960203330422,1,"Art Morris Dr, Midland City, AL 36350, USA",TRUE
+31.327401369983825,-92.54979816296853,1,"Harold Miles Park Rd, Alexandria, LA 71303, USA",TRUE
+31.35620395834505,-113.52567418072688,1,"Puerto de San Felipe 514, Nueva Esperanza, 83552 Puerto Peñasco, Son., Mexico",FALSE
+31.467099939592618,-89.33709775495505,1,"1007 Terminal Dr, Moselle, MS 39459, USA",FALSE
+31.521599685065468,74.40360026717865,1,"Allama Iqbal International Airport, Airport Road, Cantt, Lahore, Punjab 54000, Pakistan",TRUE
+31.535499641175342,-84.19450360560243,1,"3905 Newton Rd, Albany, GA 31701, USA",TRUE
+31.60690164160454,-8.036300304926975,1,"Unnamed Road, Marrakech 40160, Morocco",TRUE
+31.611301957471145,-97.23049665619845,1,"12940 Skeet Eason Rd, Waco, TX 76708, USA",TRUE
+31.636099570844408,-106.42900174150263,1,"Ciudad Juárez International Airport, Carretera Panamericana Km. 18.5 S/N, Aeropuerto, 32698 Cd Juárez, Chih., Mexico",TRUE
+31.709598596803794,74.79730248652484,1,"Sri Guru Ram Dass Jee International Airport, Amritsar, Ajnala Rd, opp. Hotel Blue Radison, Raja Sansi, Punjab 143101, India",TRUE
+31.722599009175312,35.993197230962416,1,"Main Terminal - QAIA, Airport Rd., Amman, Jordan",TRUE
+31.741999360118438,118.86199681976912,1,"Unnamed Road, Jiangning Qu, Nanjing Shi, Jiangsu Sheng, China",FALSE
+31.807201957204324,-106.37799703858009,1,"George Perry Blvd, El Paso, TX 79925, USA",TRUE
+31.942500210946523,-102.20200560792499,1,"Midland International Air & Space Port (MAF), 9506 La Force Blvd, Midland, TX 79706, USA",TRUE
+31.98985517271408,44.40431506630807,1,"Al Najaf International Airport, Najaf, Iraq",TRUE
+32.011398385811006,34.886701137005765,1,"Ben Gurion Airport, 7015001, Israel",TRUE
+32.116100693293205,-110.94100427111222,1,"Tucson International Airport (TUS), 7250 S Tucson Blvd, Tucson, AZ 85756, USA",TRUE
+32.12759995624148,-81.2021054698168,1,"442 Airways Ave, Savannah, GA 31408, USA",TRUE
+32.224401175728836,-80.69750153964507,1,"Hilton Head Island Airport, 120 Beach City Rd, Hilton Head Island, SC 29926, USA",TRUE
+32.30059883290328,-86.39399690786244,1,"4445 Selma Hwy, Montgomery, AL 36108, USA",TRUE
+32.311198552113204,-90.0758981838865,1,"Jackson-Medgar Wiley Evers International Airport (JAN), 100 International Dr, Jackson, MS 39208, USA",TRUE
+32.33259852576134,-88.75190158132023,1,"1027 US-11, Meridian, MS 39307, USA",TRUE
+32.354101631812604,-95.40239459674224,1,"700 Skyway Blvd, Tyler, TX 75704, USA",TRUE
+32.363996612934514,-64.67870166675392,1,"17 Waller's Point Road, St.George's, Bermuda",TRUE
+32.41130000850051,-99.68190231224362,1,"2933 Airport Parking Cir, Abilene, TX 79602, USA",TRUE
+32.446599938258515,-93.82559755580837,1,"Shreveport Regional Airport (SHV), 5103 Hollywood Ave Suite 300, Shreveport, LA 71109, USA",TRUE
+32.510897262028095,-92.03769421525854,1,"Monroe Regional Airport, 5400 Operations Rd, Monroe, LA 71212, USA",TRUE
+32.51630025403618,-84.93890183219231,1,"3250 W Britt David Rd, Columbus, GA 31909, USA",TRUE
+32.54109786740945,-116.96999850699993,1,"Tijuana International Airport (TIJ), Aeropuerto S/N, Nueva Tijuana, 22435 Tijuana, B.C., Mexico",TRUE
+32.65660042932986,-114.60600329217989,1,"Unnamed Road, Yuma, AZ 85365, USA",TRUE
+32.68750004322128,-103.21700034199924,1,"Lea County Regional Airport, 6601 W Carlsbad Hwy, Hobbs, NM 88240, USA",TRUE
+32.69279990282623,-83.64920248324259,1,"7791 Airport Dr, Macon, GA 31216, USA",TRUE
+32.6978992272029,-16.774502556778966,1,"Madeira Airport, 9100-105 Santa Cruz, Madeira, Portugal",TRUE
+32.733600227417504,-117.19000284117425,1,"2447 Winship Ln, San Diego, CA 92101, USA",TRUE
+32.84709743705496,-96.85180020150673,1,"8008 Cedar Springs Rd, Dallas, TX 75235, USA",TRUE
+32.896801525782564,-97.03800002576834,1,"2334 International Pkwy, Dallas, TX 75261, USA",TRUE
+32.898600613259276,-80.04049656554652,1,"Graves Dr, Joint Base Charleston, SC 29404, USA",TRUE
+33.128299393327225,-117.27999732205545,1,"McClellan-Palomar Airport, 2198 Palomar Airport Rd, Carlsbad, CA 92011, USA",TRUE
+33.26250329768071,44.23459923781237,1,"Airport St, Baghdad, Iraq",TRUE
+33.307801340963756,-111.65500135709244,1,"6266 S Downwind Cir, Mesa, AZ 85212, USA",TRUE
+33.36749781363844,-7.589971912098015,1,"Unnamed Road, Nouasseur, Morocco",TRUE
+33.369898506800034,-81.96450030075172,1,"Augusta Regional Airport, 1501 Aviation Way, Augusta, GA 30906, USA",TRUE
+33.43429896297275,-112.01199990008256,1,"John S. McCain III Terminal 3, 3251 E Sky Harbor Blvd, Phoenix, AZ 85034, USA",TRUE
+33.4502959446128,-88.59139891417024,1,"2080 Airport Rd, Columbus, MS 39701, USA",TRUE
+33.48289724315573,-90.98560619352752,1,"Bravo St, Greenville, MS 38703, USA",TRUE
+33.56289934008985,-86.75349927641729,1,"Birmingham-Shuttlesworth International Airport (BHM), 5900 Messer Airport Hwy, Birmingham, AL 35212, USA",TRUE
+33.585897865986404,130.45100214749607,1,"Unnamed Road, Higashihirao, Hakata-ku, Fukuoka, 812-0853, Japan",TRUE
+33.616700077052634,73.09919882120586,1,"Street Number 18, Falcon Complex Rawalpindi, Punjab 46000, Pakistan",FALSE
+33.636702033680656,-84.42809849867729,1,"Concourse D, 6000 N Terminal Pkwy, Atlanta, GA 30337, USA",TRUE
+33.66360240216205,-101.8229997560239,1,"Lubbock Preston Smith Int'l Airport (LBB), 5401 N Martin L King Blvd, Lubbock, TX 79403, USA",TRUE
+33.67570327079521,-117.86799525930843,1,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana, CA 92707, USA",TRUE
+33.679696786627275,-78.92829954152832,1,"1000 Jet Port Rd, Myrtle Beach, SC 29577, USA",TRUE
+33.817699401162486,-118.15199897919888,1,"LGB, 4100 Donald Douglas Dr, Long Beach, CA 90808, USA",TRUE
+33.82090223523727,35.48839849514035,1,"Beirut - Saida Hwy, Lebanon",TRUE
+33.82970286697047,-116.5070027719106,1,"Palm Springs International Airport (PSP), 3400 E Tahquitz Canyon Way, Palm Springs, CA 92262, USA",TRUE
+33.93879976074133,-81.11949641491483,1,"2840 Aviation Way, West Columbia, SC 29170, USA",TRUE
+33.942501068097876,-118.40799652206334,1,"G Shuttle Stop at Terminal 4 Lower Level, Los Angeles, CA 90045, USA",TRUE
+34.05150055904357,-6.751522663437424,1,"Unnamed Road, Salé, Morocco",TRUE
+34.05599827773535,-117.6009969267775,1,"Ontario International Airport (ONT), Ontario, CA 91761, USA",TRUE
+34.18540079576564,-79.72389727669108,1,"2100 Terminal Dr, Florence, SC 29506, USA",TRUE
+34.20069876889563,-118.35900290100172,1,"2800 N Clybourn Ave, Burbank, CA 91505, USA",TRUE
+34.26810152391482,-88.76989818566528,1,"2763 W Jackson Street Extended, Tupelo, MS 38801, USA",TRUE
+34.27059961990159,-77.90260195584102,1,"1740 Airport Blvd, Wilmington, NC 28405, USA",TRUE
+34.426203497903224,-119.83999566901177,1,"Santa Barbara Airport (SBA), 500 James Fowler Rd, Santa Barbara, CA 93117, USA",TRUE
+34.42729784729192,135.24400609814958,1,"Kansai International Airport (KIX), 1 Senshukukokita, Izumisano-shi, Osaka 549-0001, Japan",TRUE
+34.447099268691645,108.7519960965031,1,"Unnamed Road, Weicheng Qu, Xianyang Shi, Shaanxi Sheng, China",FALSE
+34.51969875091267,113.84100150327713,1,"Unnamed Road, Xinzheng Shi, Zhengzhou Shi, Henan Sheng, China",FALSE
+34.56589633793407,69.21230470523992,1,"Unnamed Road, Kabol, Afghanistan",TRUE
+34.6372009355381,-86.77509978529372,1,"Huntsville International Airport Air Traffic Control Tower, 10000 Glenn Hearn Blvd SW, Huntsville, AL 35824, USA",TRUE
+34.6544985313731,-112.41999741641726,1,"222 Ruger Rd, Prescott, AZ 86301, USA",TRUE
+34.72940130393055,-92.22429510997675,1,"2201 David Grundfest Jr. Dr, Little Rock, AR 72206, USA",TRUE
+34.74530088274543,-87.61019723085279,1,"Northwest Alabama Regional Airport, 1729 T Ed Campbell Dr, Muscle Shoals, AL 35661, USA",TRUE
+34.78549960165181,135.43800387800295,1,"Osaka International Airport (ITM), 3 Chome-555 Hotarugaike Nishimachi, Toyonaka, Osaka 560-0036, Japan",TRUE
+34.82919909268644,-77.61210089455379,1,"General Aviation, 264 State Rd 1265, Richlands, NC 28574, USA",TRUE
+34.85839702192631,136.80499523351583,1,"Unnamed Road, 1-chōme Centrair, Tokoname, Aichi 479-0881, Japan",FALSE
+34.87509874165437,33.62489910310096,1,"Unnamed Road, Cyprus",TRUE
+34.895696574389326,-82.2189050209457,1,"Greenville-Spartanburg International Airport (GSP), 2000 GSP Dr, Greer, SC 29651, USA",TRUE
+34.898899408464104,-120.45700245943226,1,"Santa Maria Airport, 3217 Terminal Dr, Santa Maria, CA 93455, USA",TRUE
+34.99119717968173,-78.88030286703021,1,"3129 Doc Bennett Rd, Fayetteville, NC 28306, USA",TRUE
+35.0353034707509,-85.20379740961513,1,"1000 Jubilee Dr, Chattanooga, TN 37421, USA",TRUE
+35.04019653032131,-106.60900216242094,1,"Kirtland Rd SE, Albuquerque, NM 87116, USA",TRUE
+35.04240241783257,-89.9767020008155,1,"2491 Winchester Rd Terminal C, Memphis, TN 38116, USA",TRUE
+35.073004093670505,-77.04290170255902,1,"620 Aviation Dr, New Bern, NC 28562, USA",TRUE
+35.138498899231905,-111.6709983387325,1,"Flagstaff Pulliam Airport, 6200 S Pulliam Dr, Flagstaff, AZ 86005, USA",TRUE
+35.17949975905147,128.93800395705,1,"201-1 Daejeo 2(i)-dong, Gangseo-gu, Busan, South Korea",FALSE
+35.21400327747425,-80.94309989852792,1,"4850 Express Dr, Charlotte, NC 28208, USA",TRUE
+35.219400539904385,-101.70600177425818,1,"Terminal, Ama, 10801 Airport Blvd, Amarillo, TX 79111, USA",TRUE
+35.23680126814251,-120.64199907232411,1,"757 Buckley Rd, San Luis Obispo, CA 93401, USA",TRUE
+35.25949612640763,-113.93800325799278,1,"9460 Flightline Dr, Kingman, AZ 86401, USA",TRUE
+35.33659905689839,-94.36740363561792,1,"6700 McKennon Blvd, Fort Smith, AR 72903, USA",TRUE
+35.33969875857005,25.18029761420786,1,"Heraklion Airport N. Kazantzakis, Iraklio 716 01, Greece",TRUE
+35.39309842507624,-97.60070187636633,1,"Alaska Airlines - Oklahoma City, 7100 Terminal Dr, Oklahoma City, OK 73159, USA",TRUE
+35.41609695097279,51.15219944774641,1,"Tehran Province, CIP Rd, Iran",TRUE
+35.43360081161404,-119.05699727576395,1,"Meadows Field Airport (BFL), 3701 Wings Way, Bakersfield, CA 93308, USA",TRUE
+35.436202040003934,-82.54180111596965,1,"120 Wright Brothers Way, Fletcher, NC 28732, USA",TRUE
+35.5523004780313,139.77999837064132,1,"Japan, 〒144-0041 Tōkyō-to, Ota City, Hanedakūkō, 3-chōme−3−２ 第1旅客ターミナル2F 北ウイング",TRUE
+35.61710200466059,-106.08899712671611,1,"121 Aviation Dr, Santa Fe, NM 87507, USA",TRUE
+35.63520174140877,-77.3853012809292,1,"900 Perkins Rd, Greenville, NC 27834, USA",TRUE
+35.764701662264244,140.38600437139527,1,"Japan, 〒282-0001 Chiba, Narita, Kinone, 成田市三里塚御料牧場 Narita Airport Terminal 1 Station",TRUE
+35.81100238168876,-83.99400275477436,1,"McGhee Tyson Airport (TYS), 2055 Alcoa Hwy, Alcoa, TN 37701, USA",TRUE
+35.857497906763626,14.477497567365644,1,"Apron 1 Buildings, Luqa, Malta",TRUE
+35.87760299579477,-78.78750089295288,1,"Terminal 1, 2400 John Brantley Blvd, Morrisville, NC 27560, USA",TRUE
+36.08010346932785,-115.15199769347186,1,"LAS Concourse B, Las Vegas, NV 89119, USA",TRUE
+36.097802135619446,-79.9373011370655,1,"880 Aviation Blvd, Greensboro, NC 27409, USA",TRUE
+36.12450196887254,-86.67820116298121,1,"1 Terminal Dr, Nashville, TN 37214, USA",TRUE
+36.19839633571057,-95.88810237883054,1,"3232 N Memorial Dr, Tulsa, OK 74115, USA",TRUE
+36.23759810805341,43.9632005894148,1,"Unnamed Road, Erbil, Iraq",TRUE
+36.26610275836118,120.37399806365164,1,"2 Hengming Rd, Chengyang Qu, Qingdao Shi, Shandong Sheng, China, 266043",FALSE
+36.28189920477293,-94.30680188962695,1,"12399 Tower Dr, Bentonville, AR 72712, USA",TRUE
+36.318700283954186,-119.3929969155625,1,"9301 W Airport Dr, Visalia, CA 93277, USA",TRUE
+36.39920085417006,25.47930136917483,1,"Santorini Airport (JTR), Thira 847 00, Greece",TRUE
+36.40540025751338,28.08620204124056,1,"Κρατικός Αερολιμένας, Diagora, Paradisi 851 06, Greece",TRUE
+36.53208122601681,-93.20054643794423,1,"Unnamed Road, Ridgedale, MO 65739, USA",TRUE
+36.5869992306801,-121.84300455458757,1,"1200 Airport Rd, Monterey, CA 93940, USA",TRUE
+36.67490241560907,-4.499110979219131,1,"Camino de las Carmelitas, 32, 29140 Málaga, Spain",TRUE
+36.691002529652245,3.215410498384424,1,"Unnamed Road, Hammedi, Algeria",TRUE
+36.74119936208365,-108.23000289724916,1,"1300 W Navajo St, Farmington, NM 87401, USA",TRUE
+36.74459700180878,-6.060111573741254,1,"Jerez Airport (XRY), Carretera N-IV, km. 628.5, 11401 Jerez de la Frontera, Cádiz, Spain",TRUE
+36.7762013537882,-119.7180014952725,1,"Fresno Yosemite International Airport (FAT), 5175 E Clinton Way, Fresno, CA 93727, USA",TRUE
+36.85100099394252,10.227199240260022,1,"Unnamed Road, Tunis, Tunisia",TRUE
+36.894597352574024,-76.20120378320004,1,"2200 Norview Ave, Norfolk, VA 23518, USA",TRUE
+36.89869973038717,30.800503652003567,1,"Yeşilköy, Dış Hatlar Otogarı 2, 07025 Muratpaşa/Antalya, Turkey",TRUE
+36.92610430172827,-111.44799743528964,1,"238 10th St, Page, AZ 86040, USA",TRUE
+37.01440282753588,-7.965912439795154,1,"Unnamed Road, 8005 Faro, Portugal",TRUE
+37.036387218135054,-113.51030745266145,1,"Unnamed Road, St. George, UT 84790, USA",TRUE
+37.04420236246064,-100.95999926584196,1,"7th St N, Liberal, KS 67901, USA",TRUE
+37.06080094978558,-88.7738057578281,1,"Barkley Regional Airport, 2901 Fisher Rd, West Paducah, KY 42086, USA",TRUE
+37.13189928258336,-76.49299399952632,1,"Newport News/Williamsburg International Airport, 900 Bland Blvd, Newport News, VA 23602, USA",TRUE
+37.15150016875479,-107.75399529063243,1,"Durango-La Plata County Airport, 1000 Airport Rd, Durango, CO 81303, USA",TRUE
+37.18870231839263,-3.7773617742707835,1,"Chauchina (E), 18330, Granada, Spain",TRUE
+37.24570015985225,-93.38860264546209,1,"Springfield-Branson National Airport (SGF), 2300 N Airport Blvd, Springfield, MO 65802, USA",TRUE
+37.284695667388846,-120.51400030089188,1,"20 Macready Dr, Merced, CA 95341, USA",TRUE
+37.303001668943274,-108.6279965704809,1,"22874 Rd F, Cortez, CO 81321, USA",TRUE
+37.32550172155807,-79.97540283044171,1,"22 Waypoint Dr NW, Roanoke, VA 24012, USA",TRUE
+37.32669920334989,-79.2004029280139,1,"Lynchburg Regional Airport (LYH), 350 Terminal Dr #100, Lynchburg, VA 24502, USA",TRUE
+37.362600738792786,-121.92899979005874,1,"Norman Y. Mineta San Jose International Airport (SJC), 1701 Airport Blvd, San Jose, CA 95110, USA",TRUE
+37.41800002800399,-5.893111565194472,1,"Seville Airport (SVQ), A-4, Km. 532, 41020 Sevilla, Spain",TRUE
+37.434896553382394,-105.86699889941474,1,"San Luis Valley Regional Airport, 2490 State Ave, Alamosa, CO 81101, USA",TRUE
+37.435102818188646,25.348099763667822,1,"Mykonos flights, 37.436394, 25.346071, Mikonos 846 00, Greece",TRUE
+37.46679884341528,15.066400777934955,1,"Catania Fontanarossa Airport, Via Fontanarossa, 95121 Catania CT, Italy",TRUE
+37.469102133751704,126.4509947036154,1,"Incheon International Airport (ICN), 272 Gonghang-ro, Jung-gu, Incheon, South Korea",TRUE
+37.505198474844946,-77.31970334296469,1,"Richmond International Airport (RIC), 1 Richard E Byrd Terminal Dr, Richmond, VA 23250, USA",TRUE
+37.55830020329767,126.79099931840192,1,"273 Ogok-dong, Gangseo-gu, Seoul, South Korea",TRUE
+37.61899935211383,-122.37500159694449,1,"4 Domestic Terminals Departures Level, San Francisco, CA 94128, USA",TRUE
+37.6240986764905,-118.8379956177311,1,"Mammoth Yosemite Airport, 1300 Airport Rd, Mammoth Lakes, CA 93546, USA",TRUE
+37.625800361142026,-120.9540032396626,1,"Modesto City-co-harry Sham Fld, Modesto, CA 95354, USA",TRUE
+37.64989896600524,-97.43310026213467,1,"1835 Midfield Rd, Wichita, KS 67209, USA",TRUE
+37.701001071752955,-113.0989982402709,1,"2299 Kitty Hawk Dr, Cedar City, UT 84721, USA",TRUE
+37.72130096643444,-122.22100200076923,1,"178 Air Cargo Way, Oakland, CA 94621, USA",TRUE
+37.74009971169268,-87.1668023819349,1,"2200 Airport Rd, Owensboro, KY 42301, USA",TRUE
+37.74119979065933,-25.69790195675109,1,"Aeroporto de Ponta Delgada João Paulo II, 9500-749 Ponta Delgada, Portugal",TRUE
+37.74160086111592,-92.14070056766715,1,"Forney VOR TBN 110.0, Fort Leonard Wood, MO 65473, USA",TRUE
+37.75500234394403,-89.01110195825946,1,"Marion VOR-DME MWA 110.4, Marion, IL 62959, USA",TRUE
+37.763401905220654,-99.96559663492472,1,"Dodge City Regional Airport, 100 Airport Rd, Dodge City, KS 67801, USA",TRUE
+37.78729997485556,-81.12420039841285,1,"Eric S. Waddell Private Jet, 207 Thunderbird Dr, Beaver, WV 25813, USA",TRUE
+37.85830090482817,-80.39950046081958,1,"606 Airport Rd, Frankford, WV 24938, USA",TRUE
+37.936400781882455,23.944502134624038,1,"ΣΤ.ΑΕΡΟΔΡΟΜΙΟΥ, Spata Artemida 190 04, Greece",TRUE
+37.95380151012058,-107.9079948868077,1,"Diamond Ranch Rd, Telluride, CO 81435, USA",TRUE
+38.036496508691805,-84.60590449124024,1,"4127 Aviator Rd, Lexington, KY 40510, USA",TRUE
+38.03700071155153,-87.53240102142995,1,"5798 Flightline Dr, Evansville, IN 47725, USA",TRUE
+38.13859758778412,-78.45290499975236,1,"Charlottesville–Albemarle Airport (CHO), 100 Bowen Loop #200, Charlottesville, VA 22911, USA",TRUE
+38.174401720401846,-85.73600071677832,1,"Louisville International Airport (SDF), 600 Terminal Dr, Louisville, KY 40209, USA",TRUE
+38.17600027265026,13.090996998928562,1,"Str. Perimetrale Aeroporto Falcone Borsellino PMO, 90045 Cinisi PA, Italy",TRUE
+38.263800325176106,-78.8964029810734,1,"Shenandoah Valley Regional Airport, 77 Aviation Cir, Weyers Cave, VA 24486, USA",TRUE
+38.28219799997776,-0.5581582952825941,1,"Unnamed Road, 03195 Elx, Alicante, Spain",TRUE
+38.28910214140909,-104.49699951547741,1,"31311 Bryan Cir, Pueblo, CO 81001, USA",TRUE
+38.29240237830904,27.157002007409197,1,"Dokuz Eylül, Unnamed Road, 35410 Gaziemir/İzmir, Turkey",TRUE
+38.34050218521027,-75.51029689636358,1,"Salisbury Regional Airport, 5485 Airport Terminal Rd a, Salisbury, MD 21804, USA",TRUE
+38.36669781560366,-82.557998632838,1,"Huntington Tri-State Airport, 1449 Co Rte 3/1, Huntington, WV 25704, USA",TRUE
+38.37309775417526,-81.59320073119515,1,"Yeager Airport, 100 Airport Rd #175, Charleston, WV 25311, USA",TRUE
+38.50899761360234,-122.8130049130102,1,"Charles M. Schulz–Sonoma County Airport, 2200 Airport Blvd, Santa Rosa, CA 95403, USA",TRUE
+38.50979975451553,-107.89399752787266,1,"2100 Airport Rd, Montrose, CO 81401, USA",TRUE
+38.53389835937873,-106.93299833641152,1,"Co Rd 38C, Gunnison, CO 81230, USA",FALSE
+38.69539797309225,-121.59100625713312,1,"Alaska Airlines - Sacramento, 6900 Airport Blvd, Sacramento, CA 95837, USA",TRUE
+38.74870023677328,-90.3700031497051,1,"Airfield Service Rd, St. Louis, MO 63145, USA",TRUE
+38.75500277251972,-109.75499882392526,1,"Canyonlands Field Airport, 110 W Aviation Way, Moab, UT 84532, USA",TRUE
+38.78130153531622,-9.13592090534205,1,"Av. Santos e Castro, 1750 Lisboa, Portugal",TRUE
+38.80580121063602,-104.70099540885579,1,"Colorado Springs Airport (COS), 7770 Milton E Proby Pkwy, Colorado Springs, CO 80916, USA",TRUE
+38.81810261449748,-92.21959685605667,1,"11300 S Airport Dr, Columbia, MO 65201, USA",TRUE
+38.842201219360675,-99.2732000578209,1,"Hays Regional Airport, 13-3950 E 8th St, Hays, KS 67601, USA",TRUE
+38.852101930060535,-77.03769924577924,1,"Ronald Reagan Washington National Airport (DCA), Arlington, VA 22202, USA",TRUE
+38.87290029802378,1.3731220039207743,1,"Diseminado Casa Torre, 174, 07817 Sant Josep de sa Talaia, Illes Balears, Spain",TRUE
+38.9053984641636,16.242299249615797,1,"Lamezia Terme International Airport, 88040 Lamezia Terme CZ, Italy",TRUE
+38.944502833681284,-77.45580373762006,1,"45020 Aviation Dr, Chantilly, VA 20151, USA",TRUE
+38.950902772252896,-95.66359459638647,1,"6036 SE Adams St, Topeka, KS 66609, USA",TRUE
+38.96569654252317,121.5389988780691,1,"Dalian Airport (DLC), 100 Yingke Rd, Ganjingzi Qu, Dalian Shi, Liaoning Sheng, China, 116033",TRUE
+39.04880407070689,-84.66780112184821,1,"Concourse C, Burlington, KY 41005, USA",TRUE
+39.10329808660179,-84.41860458801196,1,"500 Lunken Airport Trail, Cincinnati, OH 45226, USA",TRUE
+39.12240049949145,-108.52700129993318,1,"806 Eagle Dr, Grand Junction, CO 81506, USA",TRUE
+39.1409987095214,-96.67079710444696,1,"1725 Airport Rd, Manhattan, KS 66503, USA",TRUE
+39.17539909554105,-76.66829616652453,1,"Baltimore/Washington International Thurgood Marshall Airport (BWI), Baltimore, MD 21240, USA",TRUE
+39.223200964388816,-106.86900468027336,1,"1001 Owl Creek Rd, Aspen, CO 81611, USA",TRUE
+39.29660258752303,-80.22810586598415,1,"568 Aviation Way, Bridgeport, WV 26330, USA",TRUE
+39.29759953408655,-94.71389986222329,1,"298 International Cir, Kansas City, MO 64153, USA",TRUE
+39.3450977353029,-81.43920113501989,1,"Mid-Ohio Valley Regional Airport, 543 Co Rte 31/1, Williamstown, WV 26187, USA",TRUE
+39.45759799837684,-74.57720074952533,1,"Atlantic City International Airport, 101 Atlantic City International Airport, Egg Harbor Township, NJ 08234, USA",TRUE
+39.48929975318143,-0.48162259300901866,1,"Unnamed Road, 46940 Manises, Valencia, Spain",TRUE
+39.49909733147816,-119.76799779247564,1,"Reno-Tahoe International Airport, 2001 E Plumb Ln, Reno, NV 89502, USA",TRUE
+39.64260034084663,-106.917998301335,1,"217 Eldon Wilson Rd, Gypsum, CO 81637, USA",TRUE
+39.6428982789001,-79.916296504296,1,"Unnamed Road, Morgantown, WV 26505, USA",TRUE
+39.67869668193987,-75.60649651016605,1,"68 Penns Way, New Castle, DE 19720, USA",TRUE
+39.70790034075769,-77.72949994677609,1,"18543 Henson Blvd, Hagerstown, MD 21742, USA",TRUE
+39.71730257817579,-86.2944053839128,1,"Indianapolis International Airport (IND), 7800 Col. H. Weir Cook Memorial Dr, Indianapolis, IN 46241, USA",TRUE
+39.79539672565212,-121.85799886008614,1,"109 Convair Ave, Chico, CA 95973, USA",TRUE
+39.84409813823824,-89.67790451065477,1,"1200 Capital Airport Dr, Springfield, IL 62707, USA",TRUE
+39.861699401704655,-104.67299496140775,1,"8900 Pena Blvd, Denver, CO 80249, USA",TRUE
+39.871898050457986,-75.24109840589932,1,"PHL Airport, 8000 Essington Ave, Philadelphia, PA 19153, USA",TRUE
+39.90240232347075,-84.21939862180089,1,"3600 Terminal Dr, Vandalia, OH 45377, USA",TRUE
+39.99800033158832,-82.89190124710636,1,"4379 International Gateway, Columbus, OH 43219, USA",TRUE
+40.039201726636186,-88.27809986221476,1,"County Rd 1100 N, Champaign, IL 61822, USA",TRUE
+40.08009945405262,116.58499951656177,1,"Hui Qiang Bin Guan, Chaoyang Qu, Beijing Shi, China",TRUE
+40.12170191955707,-76.29609705322962,1,"Millport Rd, Lititz, PA 17543, USA",TRUE
+40.12810185812869,32.99509816511521,1,"Esenboğa Merkez, Esenboğa Havaalanı, 06970 Çubuk/Ankara, Turkey",TRUE
+40.147301673843515,44.3958983162976,1,"Zvartnots International Airport (EVN), Yerevan, Armenia",TRUE
+40.19349926086492,-76.76339570136035,1,"Harrisburg International Airport (MDT), 1 Terminal Dr, Middletown, PA 17057, USA",TRUE
+40.27590205096063,-79.40479989184887,1,"5695 PA-981, Latrobe, PA 15650, USA",TRUE
+40.27669846229586,-74.81350000339319,1,"152 Scotch Rd, Ewing Township, NJ 08628, USA",TRUE
+40.296396751292455,-78.32000170959383,1,"204 Aviation Way, Martinsburg, PA 16662, USA",TRUE
+40.31610076986701,-78.83389901520256,1,"Johnstown VORTAC JST 113 077X, Richland St, Johnstown, PA 15904, USA",TRUE
+40.440896707224454,-109.51000207072732,1,"1001 1000 S St, Vernal, UT 84078, USA",TRUE
+40.467499137652375,50.046700300353294,1,"Airport, Azerbaijan",TRUE
+40.47710191029877,-88.91589929102054,1,"E Oakland Ave, Bloomington, IL 61704, USA",TRUE
+40.48119855853396,-107.21800473244343,1,"Yampa Valley Regional Airport, 11005 Co Rd 51A, Hayden, CO 81639, USA",TRUE
+40.491500339690404,-80.23290152272939,1,"301 Oshkosh Dr, Coraopolis, PA 15108, USA",TRUE
+40.49359736522059,-3.566759677514547,1,"Aeropuerto Madrid-Barajas Adolfo Suárez, Av de la Hispanidad, s/n, 28001 Madrid, Spain",TRUE
+40.5089984707537,-122.29299987730535,1,"6725 Airway Ave, Redding, CA 96002, USA",TRUE
+40.51970132236675,22.970897871670036,1,"Thessaloniki Airport Makedonia (SKG), EO Aerodromiou Thessalonikis, Thessaloniki 551 03, Greece",TRUE
+40.63979900580412,-73.77889865356956,1,"John F. Kennedy International Airport (JFK), Queens, NY 11430, USA",TRUE
+40.65210040966558,-75.44080284539217,1,"3311 Airport Rd, Allentown, PA 18109, USA",TRUE
+40.66420127829875,-89.69329988660994,1,"Unnamed Road, Peoria, IL 61607, USA",TRUE
+40.69249966380025,-74.16869903033091,1,"I-95, Newark, NJ 07114, USA",TRUE
+40.72700318222303,-99.00679760139687,1,"Kearney Regional, Center, NE 68848, USA",TRUE
+40.77720001465445,-73.87259444180731,1,"LaGuardia Airport (LGA), Queens, NY 11371, USA",TRUE
+40.78840133954925,-111.97799485494154,1,"Alaska Airlines - Salt Lake City, 776 N Terminal Dr, Salt Lake City, UT 84116, USA",TRUE
+40.795202348577455,-73.10019576776939,1,"Long Island MacArthur Airport (ISP), 100 Arrival Ave, Ronkonkoma, NY 11779, USA",TRUE
+40.824898751099084,-115.79199728021095,1,"975 Terminal Way, Elko, NV 89801, USA",TRUE
+40.8493010235937,-77.84870381605306,1,"2493 Fox Hill Rd, State College, PA 16803, USA",TRUE
+40.85100270824525,-96.75919876265769,1,"Lincoln Airport (LNK), 2400 W Adams St, Lincoln, NE 68524, USA",TRUE
+40.898604041864715,29.30919764368116,1,"Sanayi, SAW, 34906 Pendik/İstanbul, Turkey",TRUE
+40.916102172928014,-81.4421977042884,1,"Akron-Canton Airport (CAK), 5400 Lauby Rd, North Canton, OH 44720, USA",TRUE
+40.978101935939115,-124.1090010681284,1,"KACV CTAF 123.0, McKinleyville, CA 95519, USA",TRUE
+40.978503006395705,-85.19509991028507,1,"4401 Altitude Dr, Fort Wayne, IN 46809, USA",TRUE
+41.067002067431616,-73.70760551512143,1,"240 Airport Rd, West Harrison, NY 10604, USA",TRUE
+41.126200066824524,-100.68399976634949,1,"Lincoln Hwy, North Platte, NE 69101, USA",TRUE
+41.13890254114258,16.76059687109114,1,"SP210, 70128 Bari BA, Italy",TRUE
+41.15570166369581,-104.81199452250648,1,"Cheyenne Echo, Cheyenne, WY 82009, USA",TRUE
+41.17829911913577,-78.89869481225392,1,"377 Aviation Way, Reynoldsville, PA 15851, USA",TRUE
+41.24180003157013,-76.92109660489216,1,"923 Airport Rd, Montoursville, PA 17754, USA",TRUE
+41.25309875929011,-70.06020202794222,1,"Airport Access, Nantucket, MA 02554, USA",FALSE
+41.257900145613306,69.28119715052645,1,"Chinaz Str., Тошкент, Uzbekistan",TRUE
+41.263698478500025,-72.88680336655086,1,"10 Thompson Ave, East Haven, CT 06512, USA",TRUE
+41.297101917956155,2.0784616976165746,1,"Josep Tarradellas Barcelona-El Prat Airport (BCN), 08820 El Prat de Llobregat, Barcelona, Spain",TRUE
+41.303198188896346,-95.8940955173676,1,"Eppley Airfield (OMA), 4501 Abbott Dr, Omaha, NE 68110, USA",TRUE
+41.31210195303268,-105.67500074226638,1,"Laramie Regional Airport, 555 N General Brees Rd, Laramie, WY 82070, USA",TRUE
+41.33849811865435,-75.7233970891066,1,"Wilkes-Barre Scranton Int'l Airport (AVP), 100 Terminal Rd, Avoca, PA 18641, USA",TRUE
+41.393100996530315,-70.61430378203528,1,"West Tisbury, MA, USA",FALSE
+41.41169920656027,-81.84979987974448,1,"5300 Berea Fwy Dr, Cleveland, OH 44135, USA",TRUE
+41.414701505406754,19.720599973140096,1,"Airport Rd, Albania",TRUE
+41.44850028574152,-90.50750156138061,1,"Quad City International Airport (MLI), 2200 69th Ave, Moline, IL 61265, USA",TRUE
+41.50410011018102,-74.10479704743997,1,"Perimeter Rd, New Windsor, NY 12553, USA",TRUE
+41.53400277750889,-93.66310099553131,1,"Falcon Rd, Des Moines, IA 50321, USA",TRUE
+41.5868008383302,-83.80780293051274,1,"Toledo Express Airport, 11013 Airport Hwy, Swanton, OH 43558, USA",TRUE
+41.594197723465335,-109.06500293998307,1,"Rock Springs/Southwest Wyoming Regional Airport - KRKS, 382 WY-370, Rock Springs, WY 82901, USA",TRUE
+41.61029783750851,41.59969811829859,1,"180 Airport Hwy, Batumi, Georgia",TRUE
+41.6397994343798,123.48300456990232,1,"Unnamed Road, Hunnan Qu, Shenyang Shi, Liaoning Sheng, China",FALSE
+41.66920362842592,44.95469832431074,1,"Georgian Airways OCC, The Operations Control, T'bilisi, Georgia",TRUE
+41.66930103125109,-70.2804011677669,1,"520 Mary Dunn Rd, Hyannis, MA 02601, USA",TRUE
+41.70869760924429,-86.31730077740626,1,"South Bend International Airport (SBN), 4477 Progress Dr, South Bend, IN 46628, USA",TRUE
+41.73260140845714,-71.42040383358281,1,"1 Commerce Dr, Warwick, RI 02888, USA",TRUE
+41.780202742076604,-124.23699983956064,1,"KCEC CTAF 122.8, Crescent City, CA 95531, USA",TRUE
+41.78600107496333,-87.75240535560428,1,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago, IL 60638, USA",TRUE
+41.804501882168104,12.25080022899282,1,"Unnamed Road, 00054 Fiumicino RM, Italy",TRUE
+41.87400166271748,-103.59600046432239,1,"250023 Airport Rd, Scottsbluff, NE 69361, USA",TRUE
+41.88469878475257,-91.71079887482459,1,"2121 Arthur Collins Pkwy SW, Cedar Rapids, IA 52404, USA",TRUE
+41.93890059217194,-72.68319708447318,1,"Bradley International Airport (BDL), Schoephoester Rd, Windsor Locks, CT 06096, USA",TRUE
+41.96160118001502,21.621398917642505,1,"Skopje International Airport, Автопат „Александар Македонски, Petrovec 1043, North Macedonia",TRUE
+41.978600837796556,-87.90480066995316,1,"O'Hare International Airport - Bus Shuttle Center Door 4, Chicago, IL 60666, USA",TRUE
+42.07190128515566,-70.22139797402431,1,"Provincetown Municipal Airport, 176 Race Point Rd, Provincetown, MA 02657, USA",TRUE
+42.08312552836227,-80.17386395151912,1,"W W 12th St, Erie, PA 16505, USA",TRUE
+42.15339880193507,-79.2580023751584,1,"Chautauqua County Jamestown Airport, 3163 Airport Dr, Jamestown, NY 14701, USA",TRUE
+42.15610316272809,-121.7330023875004,1,"Unnamed Road, Klamath Falls, OR 97603, USA",TRUE
+42.159901872909806,-76.89160073759882,1,"Elmira Corning Regional Airport, 276 Sing Sing Rd #1, Horseheads, NY 14845, USA",TRUE
+42.19540233789611,-89.09720032613377,1,"6020 Cessna Dr, Rockford, IL 61109, USA",TRUE
+42.208700688321095,-75.97979570242764,1,"Greater Binghamton Airport, Airport Rd, Johnson City, NY 13790, USA",TRUE
+42.212396266099695,-83.3534015623504,1,"McNamara Terminal A, Detroit, MI 48242, USA",TRUE
+42.23180234662077,-8.626767690276996,1,"Estrada Redondela, 27I, 36318, Pontevedra, Spain",TRUE
+42.234902048292426,-85.55209845327519,1,"Kalamazoo/Battle Creek Int'l Airport (AZO), 5235 Portage Rd, Portage, MI 49002, USA",TRUE
+42.267297082029124,-71.8757047454835,1,"Worcester Regional Airport (ORH), 375 Airport Dr, Worcester, MA 01602, USA",TRUE
+42.275599240480574,-82.95559696519106,1,"Pilette Rd, Windsor, ON N8W 5T1, Canada",TRUE
+42.35940004759641,19.251897578411278,1,"Podgorica Airport, Golubovci, Montenegro",TRUE
+42.36429883674478,-71.00520423776328,1,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston, MA 02128, USA",TRUE
+42.37419954744464,-122.87299932373834,1,"Rogue Valley International-Medford Airport, 1000 Terminal Loop Pkwy, Medford, OR 97504, USA",TRUE
+42.48180102137021,-114.48799690469474,1,"Twin Falls VORTAC TWF 115.8, Twin Falls, ID 83301, USA",TRUE
+42.49100272356,-76.45839880785631,1,"Ithaca Tompkins International Airport, 1 Culligan Dr, Ithaca, NY 14850, USA",TRUE
+42.551495607569926,-94.19259421232351,1,"1639 Nelson Ave, Fort Dodge, IA 50501, USA",TRUE
+42.56140204784773,18.26819779910707,1,"ČILIPI, Čilipi, 20213, Čilipi, Croatia",TRUE
+42.57279817839288,21.0358016735511,1,"Aeroporti Ndërkombëtar i Prishtinës ""Adem Jashari"", 14060",TRUE
+42.7483008806194,-73.80169664423782,1,"838 Albany Shaker Rd, Albany, NY 12211, USA",TRUE
+42.77520124910079,141.69199864003852,1,"Unnamed Road, Bibi, Chitose, Hokkaido 066-0012, Japan",TRUE
+42.778702021229044,-84.58740368403546,1,"3124 E Circle Dr, Lansing, MI 48906, USA",TRUE
+42.88079737074341,-85.5227973916322,1,"Gateway Dr SE, Grand Rapids, MI 49512, USA",TRUE
+42.89630160867965,-8.415139999067476,1,"Parking General Aeropuerto de Santiago, Carretera del aeropuerto, s/n, 15820 Santiago de Compostela, La Coruña, Spain",TRUE
+42.90800140685622,-106.46399800362924,1,"7429 Fuller St, Casper, WY 82604, USA",TRUE
+42.90980049433293,-112.59599859192554,1,"Pocatello, ID, USA",FALSE
+42.93259848500118,-71.43570180671277,1,"52 Green Dr, Manchester, NH 03103, USA",TRUE
+42.94049957299604,-78.73219900656684,1,"Buffalo Niagara International Airport (BUF), 4200 Genesee St, Buffalo, NY 14225, USA",TRUE
+42.94720317919907,-87.89660164390484,1,"General Mitchell International Airport (MKE), 5300 S Howell Ave, Milwaukee, WI 53207, USA",TRUE
+42.96540031877243,-83.7435972799904,1,"3099 Airpark Dr N, Flint, MI 48507, USA",TRUE
+43.03559910783185,-81.15390253051244,1,"2180 Flying Club Rd, London, ON N5V 3Z9, Canada",TRUE
+43.06129626494347,74.47759776641979,1,"Unnamed Road, Kyrgyzstan",TRUE
+43.06420116096478,-108.45999961537059,1,"4829 Airport Rd, Riverton, WY 82501, USA",TRUE
+43.107299046314516,-78.9461987430482,1,"Niagara Falls International Airport (IAG), 2035 Niagara Falls Blvd, Niagara Falls, NY 14304, USA",TRUE
+43.11120088889937,-76.10629905401457,1,"Unnamed Road, Syracuse, NY 13212, USA",TRUE
+43.11890144166592,-77.67239897291336,1,"Rochester Vortac Roc 110.0 037X, Rochester, NY 14624, USA",TRUE
+43.139900344857466,-89.33749882541166,1,"Dane County Regional Airport, 4000 International Ln, Madison, WI 53704, USA",TRUE
+43.157799546377355,-93.33130113637105,1,"9184 265th St, Clear Lake, IA 50428, USA",TRUE
+43.16949934455393,-86.23819822421049,1,"Stariha Dr, Norton Shores, MI 49441, USA",TRUE
+43.17360172236706,-79.93499784672908,1,"Salem Rd, Mount Hope, ON L0R 1W0, Canada",TRUE
+43.301102020517526,-2.910608410530728,1,"Bilbao Airport (BIO), 48180 Loiu, Bizkaia, Spain",TRUE
+43.30209896708105,-8.377261759231377,1,"A Coruña Airport (LCG), Rutis-Vilaboa, 15174 A Coruña, Spain",TRUE
+43.352100993862116,77.04049527981948,1,"Unnamed Road, Almaty, Kazakhstan",TRUE
+43.41709732614176,-124.24600100652215,1,"Southwest Oregon Regional Airport, North Bend, OR 97459, USA",TRUE
+43.43927079281332,5.221421682806706,1,"Unnamed Road, 13700 Marignane, France",TRUE
+43.449899159912995,39.95659840131218,1,"Unnamed Road, Bolshoy Sochi, Krasnodarskiy kray, Russia",TRUE
+43.46080254675434,-80.37859896045322,1,"4881 Fountain St N, Breslau, ON N0B 1M0, Canada",TRUE
+43.50439890538584,-114.2959987475464,1,"1610 Airport Cir, Hailey, ID 83333, USA",TRUE
+43.512901599065586,43.63660318703433,1,"Nalchik Airport (NAL), Ulitsa Kabardinskaya, 195, Nalchik, Kabardino-Balkarskaya Republits, Russia, 360000",TRUE
+43.51459755413917,-112.07099736424716,1,"1940 Borah Ave, Idaho Falls, ID 83402, USA",TRUE
+43.5293970539874,-72.9495995408972,1,"Rutland Southern Vermont Regional Airport (RUT), 1002 Airport Rd, North Clarendon, VT 05759, USA",TRUE
+43.5329035556936,-84.07959691978897,1,"Saginaw VOR-DME MBS 112.9, Freeland, MI 48623, USA",TRUE
+43.538896694230665,16.298002206458413,1,"Cesta Dr. Franje Tuđmana 1270, 21217, Kaštel Štafilić, Croatia",TRUE
+43.56439904569194,-116.22299905202017,1,"Boise Airport (BOI), 3201 W Airport Way #1000, Boise, ID 83705, USA",TRUE
+43.576196246693684,3.9630115590490727,1,"Unnamed Road, 34130 Mauguio, France",TRUE
+43.58200030915837,-96.74189543724474,1,"Sioux Falls Regional Airport, 2801 N Jaycee Ln, Sioux Falls, SD 57104, USA",TRUE
+43.607302125391335,-110.73799959471941,1,"Jackson Hole Airport, 1250 E Airport Rd, Jackson, WY 83001, USA",TRUE
+43.62610087064959,-72.30419696215003,1,"5 Airpark Rd, West Lebanon, NH 03784, USA",TRUE
+43.6274988876697,-79.39619979534395,1,"Billy Bishop Toronto City Airport, 2 Eireann Quay, Toronto, ON M5V 1A1, Canada",TRUE
+43.62910316949606,1.36381716932785,1,"Toulouse-Blagnac Airport (TLS), 31703 Blagnac, France",TRUE
+43.64620023010277,-70.30930115895329,1,"Portland International Jetport (PWM), 1001 Westbrook St, Portland, ME 04102, USA",TRUE
+43.65840423113906,7.215870578923246,1,"Nice Côte d'Azur Airport (NCE), Rue Costes et Bellonte, 06206 Nice, France",TRUE
+43.6772029763973,-79.63060255890993,1,"2580 Britannia Rd E, Mississauga, ON L4W, Canada",TRUE
+43.68390085302238,10.39269809938356,1,"Unnamed Road, 56121 Pisa PI, Italy",TRUE
+43.81000313415272,11.205100686677506,1,"Florence Airport, Peretola, Via del Termine, 11, 50127 Firenze FI, Italy",TRUE
+43.82460209877265,18.331498176313122,1,"Aerodromska, Bosnia and Herzegovina",TRUE
+43.87900444142033,-91.25670117429365,1,"2842 Fanta Reed Rd, La Crosse, WI 54603, USA",TRUE
+43.90829977348537,-92.5000024009937,1,"7600 Helgerson Dr SW, Rochester, MN 55902, USA",TRUE
+44.045299711879096,-103.05700187770897,1,"4550 Terminal Rd, Rapid City, SD 57703, USA",TRUE
+44.1245970707252,-123.21199553280546,1,"Eugene Airport (EUG), 28801 Douglas Dr, Eugene, OR 97402, USA",TRUE
+44.25410272115862,-121.15000064222093,1,"Alaska Airlines - Redmond, 2522 Se Jesse Butler Circle, Redmond, OR 97756, USA",TRUE
+44.25809623699068,-88.5190973700027,1,"217 Challenger Dr, Appleton, WI 54914, USA",TRUE
+44.3206002028615,-69.79730034364643,1,"Augusta VOR-DME AUG 111.4, Augusta, ME 04330, USA",TRUE
+44.348898588363014,-105.53900348001412,1,"Gillette-Campbell County Airport, 2000 Airport Rd, Gillette, WY 82716, USA",TRUE
+44.38270309827574,-100.2860003635398,1,"Pierre Regional Airport, 3800 Airport Rd #209, Pierre, SD 57501, USA",TRUE
+44.38520119426251,-98.22850319164708,1,"Huron Regional Airport, 426 15th St NW, Huron, SD 57350, USA",TRUE
+44.41329904453572,8.837501567326115,1,"Via Pionieri e Aviatori d'Italia, 105, 16154 Genova, Italy",TRUE
+44.4500027208918,-68.3615024865163,1,"143 Caruso Dr, Trenton, ME 04605, USA",TRUE
+44.4719011678217,-73.15329749622211,1,"Burlington International Airport (BTV), 1200 Airport Dr, South Burlington, VT 05403, USA",TRUE
+44.48510211542152,-88.12960066087274,1,"Unnamed Road, Hobart, WI 54155, USA",TRUE
+44.52020150995123,-109.02400208016351,1,"Yellowstone Regional Airport, 2101 Roger Sedam Drive, Cody, WY 82414, USA",TRUE
+44.53540208025605,11.288700958565045,1,"Bologna Guglielmo Marconi Airport, Via del Triumvirato, 84, 40132 Bologna BO, Italy",TRUE
+44.5722031594373,26.102198165729256,1,"Unnamed Road, Otopeni 075100, Romania",TRUE
+44.65090464217648,-73.46810342717879,1,"Plattsburgh International Airport, 42 Airport Ln, Plattsburgh, NY 12903, USA",TRUE
+44.68839900028984,-111.11799666360609,1,"721 Airport Loop, West Yellowstone, MT 59758, USA",TRUE
+44.74140332591739,-85.58220165583135,1,"1840 Stultz Dr, Traverse City, MI 49686, USA",TRUE
+44.76919750855918,-106.98000379392406,1,"Sheridan County Airport, 908 W Brundage Ln, Sheridan, WY 82801, USA",TRUE
+44.7775970698358,-89.66680058858513,1,"Unnamed Road, Mosinee, WI 54455, USA",TRUE
+44.807402334338505,-68.82810212613698,1,"Fuller Rd, Bangor, ME 04401, USA",TRUE
+44.818403124005016,20.30909638367487,1,"Vasilija Ostroškog, Beograd, Serbia",TRUE
+44.82829810512693,-0.7155555311829824,1,"Unnamed Road, 33700 Mérignac, France",TRUE
+44.86579819281824,-91.48429719925346,1,"3800 Starr Ave, Eau Claire, WI 54703, USA",TRUE
+44.880798227894765,-63.50859579838184,1,"1600 Old Guysborough Rd, Goffs, NS B2T 1E4, Canada",TRUE
+44.88200143926454,-93.2218031721436,1,"Unnamed Road, St Paul, MN 55111, USA",TRUE
+44.91400113212259,-97.15470006948061,1,"Golf Course Rd, Watertown, SD 57201, USA",FALSE
+45.03470042124486,39.17050030639268,1,"Aeroportovskiy Proyezd, Krasnodarskiy kray, Russia, 350055",FALSE
+45.078096244648066,-83.56030235175008,1,"Unnamed Road, Alpena, MI 49707, USA",FALSE
+45.20080088605329,7.649628277727036,1,"Unnamed Road, 10077, 10077 San Maurizio Canavese TO, Italy",TRUE
+45.31610291274541,-65.89029540907141,1,"130 Airport Service Rd, Saint John, NB E2N 2C5, Canada",TRUE
+45.32249712173907,-75.66919528168722,1,"1000 Airport Parkway Private, Ottawa, ON K1V 9B4, Canada",TRUE
+45.39569820964498,10.888501397822068,1,"Via Aeroporto Angelo Berardi, 1, 37139 Verona VR, Italy",TRUE
+45.445098630741164,9.276742472229303,1,"Via Archimede, 43, 20068 Linate MI, Italy",TRUE
+45.44909787615117,-98.42179623341241,1,"Aberdeen Regional Airport, 4740 6th Ave SE, Aberdeen, SD 57401, USA",TRUE
+45.47060098220244,-73.74079696019336,1,"8099 Rue Hervé Saint-Martin, Saint-Laurent, QC H4S 2A5, Canada",TRUE
+45.50529930627556,12.351898631943655,1,"Viale Alvise Ca' da Mosto, 30173 Venezia VE, Italy",TRUE
+45.570897244240086,-84.79669943701879,1,"1395 US-31, Pellston, MI 49769, USA",TRUE
+45.588699042934806,-122.5979967708094,1,"Portland International Airport (PDX), 7000 NE Airport Way, Portland, OR 97218, USA",TRUE
+45.63059944649272,8.728112465079736,1,"Aeroporto di Milano-Malpensa JPJG+26 Case Nuove, Somma Lombardo, 21010 Ferno VA, Italy",TRUE
+45.6312010521776,-89.46749721954887,1,"Rhinelander–Oneida County Airport, 3375 Airport Rd, Rhinelander, WI 54501, USA",TRUE
+45.722696682482045,-87.09369869685418,1,"1900 Willow Creek Rd, Escanaba, MI 49829, USA",TRUE
+45.72639798983859,5.090827412562537,1,"A432, 38280 Colombier-Saugnieu, France",TRUE
+45.74289917433836,16.068801899672234,1,"Franjo Tuđman Airport Zagreb (ZAG), Ul. Rudolfa Fizira 21, 10150, Zagreb, Croatia",TRUE
+45.777500095586305,-111.15299865531063,1,"Bozeman Yellowstone International Airport, 850 Gallatin Field Rd, Belgrade, MT 59714, USA",TRUE
+45.80770070096765,-108.54299828157323,1,"1901 Terminal Cir, Billings, MT 59105, USA",TRUE
+45.80990085890095,21.337899400611775,1,"Unnamed Road, Romania",TRUE
+45.8184035525807,-88.11450322297105,1,"Ford Airport, 400 Riverhills Rd, Kingsford, MI 49802, USA",TRUE
+45.82750212236738,13.472203008762953,1,"Via Aquileia, 46, 34077 Ronchi dei Legionari GO, Italy",TRUE
+45.86889832306558,-66.53719913724181,1,"Fredericton International Airport, 2570 Rte 102 Hwy, Lincoln, NB E3B 9G1, Canada",TRUE
+45.95480188528954,-112.49700294408285,1,"Unnamed Road, Butte, MT 59701, USA",TRUE
+46.09489579577698,-118.28800197102909,1,"191 W Curtis Ave, Walla Walla, WA 99362, USA",TRUE
+46.11219912118993,-64.6785985343508,1,"Greater Moncton Roméo LeBlanc International Airport, 777 Aviation Ave #12, Dieppe, NB E1A 7Z5, Canada",TRUE
+46.16139900705781,-60.04779893549879,1,"280 Airport Rd, Sydney, NS B1M 1B8, Canada",TRUE
+46.22370243770035,14.45759874314075,1,"Ljubljana Jože Pučnik Airport (LJU), Zgornji Brnik 130a, 4210 Brnik, Slovenia",TRUE
+46.23810086709198,6.108950496198204,1,"Genève Aéroport (GVA), Route de l'Aéroport 21, 1215 Le Grand-Saconnex, Switzerland",TRUE
+46.25080334141003,-84.47239959539681,1,"Parmenter Rd, Kincheloe, MI 49788, USA",FALSE
+46.2647032975199,-119.119002768353,1,"Tri-Cities Airport, 3601 N 20th Ave, Pasco, WA 99301, USA",TRUE
+46.289999384174934,-63.12109871195692,1,"3228 Norwood Rd, Charlottetown, PE C1C 0K8, Canada",TRUE
+46.35359769943445,-87.3954010830362,1,"Navaids Access Rd, Gwinn, MI 49841, USA",FALSE
+46.37449919980082,-117.0149986122295,1,"Lewiston-Nez Perce County Regional Airport, 406 Burrell Ave, Lewiston, ID 83501, USA",TRUE
+46.39829986661056,-94.13810019642861,1,"Oak Lawn Township, MN, USA",FALSE
+46.42679878734036,30.676498396403403,1,"Odessa International Airport (ODS), Odesa, Odes'ka oblast, Ukraine",TRUE
+46.56819904160069,-120.5440003710449,1,"Unnamed Road, Yakima, WA 98902, USA",FALSE
+46.606799208258664,-111.98300250607099,1,"2365 Skyway Dr, Helena, MT 59602, USA",TRUE
+46.62500207740997,-80.79889788064939,1,"5000 Air Terminal Dr, Falconbridge, ON P0M 1S0, Canada",TRUE
+46.689001463126075,-68.04480006525775,1,"Unnamed Road, Presque Isle, ME 04769, USA",TRUE
+46.74390227905552,-117.11000074424011,1,"Alaska Airlines - Pullman, North, 3200 Airport Complex, Pullman, WA 99163, USA",TRUE
+46.77269913783879,-100.74599952936059,1,"Lancair Dr, Bismarck, ND 58504, USA",TRUE
+46.7851953473506,23.68620130142316,1,"Someșeni, Cluj-Napoca, Romania",TRUE
+46.79109681264044,-71.3933029298731,1,"203 Rue Principale, Québec, QC G2G, Canada",TRUE
+46.79739934838689,-102.80200128140805,1,"11120 42nd St SW, Dickinson, ND 58601, USA",FALSE
+46.84209578598504,-92.19360176089158,1,"4859 Malstrom St, Duluth, MN 55811, USA",TRUE
+46.91629955003243,-114.0910059076045,1,"4439 Corporate Way, Missoula, MT 59808, USA",TRUE
+46.92069986589903,-96.81580126323867,1,"3825 20th St N, Fargo, ND 58102, USA",TRUE
+46.92770141015554,28.9309996622712,1,"Kishinev Airport (KIV) Runway, Chisinau, Moldova",TRUE
+46.99109919018676,15.439602567371368,1,"Unnamed Road, 8073 Feldkirchen bei Graz, Austria",TRUE
+47.15320040958517,-1.6107276015615268,1,"Les Cantons, 44860 Saint-Aignan-Grandlieu, France",TRUE
+47.168400979889995,-88.48909729984962,1,"Houghton County Memorial Airport, 23810 Airpark Blvd Suite 113, Calumet, MI 49913, USA",TRUE
+47.26020027782585,11.34399711537312,1,"Kranebitter Allee 105, 6020 Innsbruck, Austria",TRUE
+47.38660049700966,-92.83899861006078,1,"Range Regional Airport, 11038 MN-37, Hibbing, MN 55746, USA",TRUE
+47.398901900871124,-120.20699805510486,1,"Pangborn Memorial Airport, 1 Pangborn Drive, East Wenatchee, WA 98802, USA",TRUE
+47.4369004618442,19.25559888576782,1,"Budapest, Ferihegy, 1185 Hungary",TRUE
+47.44900133047736,-122.30899685894539,1,"Unnamed Road, SeaTac, WA, USA",TRUE
+47.464700374063945,8.549172016082428,1,"Zurich Airport (ZRH), 8058 Kloten, Switzerland",TRUE
+47.48199796989895,-111.37100336677996,1,"Hangar Ave, Great Falls, MT 59404, USA",TRUE
+47.50939681166211,-94.93369793159137,1,"Bemidji Regional Airport, 3824 Moberg Dr NW, Bemidji, MN 56601, USA",TRUE
+47.58959944382452,7.529908746434452,1,"Unnamed Road, 68300 Saint-Louis, France",TRUE
+47.618596837836094,-52.75189761175167,1,"39 Aviation Ct, St. John's, NL A1A 0E5, Canada",TRUE
+47.61989745203103,-117.5339952422149,1,"9000 W Airport Dr, Spokane, WA 99224, USA",TRUE
+47.70690109322164,-104.19299956853689,1,"Sidney-Richland Airport, 540 Airport Rd, Sidney, MT 59270, USA",TRUE
+47.79330312872737,13.004302754947318,1,"Salzburg Airport, Innsbrucker Bundesstraße 95, 5020 Salzburg, Austria",TRUE
+47.843098890702194,106.76700100400622,1,"Unnamed Road, Ulaanbaatar, Mongolia",TRUE
+47.94929661802969,-97.17610004312873,1,"2787 Airport Dr, Grand Forks, ND 58203, USA",TRUE
+48.110297758461456,16.569698792909453,1,"Katharinenhof, 1300 Schwechat, Austria",TRUE
+48.17790104870895,-103.64199751611548,1,"421 Airport Rd, Williston, ND 58801, USA",TRUE
+48.25939856548835,-101.27999619442252,1,"19th Ave NE, Minot, ND 58703, USA",TRUE
+48.31050067123607,-114.25599483429038,1,"Unnamed Road, Kalispell, MT 59901, USA",TRUE
+48.3537990918141,11.786102809251968,1,"Flughafen München, 85356 München-Flughafen, Germany",TRUE
+48.35720246111718,35.10060347066196,1,"Dnipropetrovsk International Airport (DNK), Aeroport St, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",TRUE
+48.37189882856229,-89.32389680735524,1,"350 Hector Dougall Way, Thunder Bay, ON P7E 6M6, Canada",TRUE
+48.53829723142418,7.628228304078901,1,"Strasbourg Airport, Route de l'Aéroport - RD221, 67960 Entzheim, France",TRUE
+48.566200276047056,-93.4030984776789,1,"3214 Co Rd 108, International Falls, MN 56649, USA",TRUE
+48.64690138149123,-123.42600099886478,1,"1640 Electra Blvd, North Saanich, BC V8L 5V4, Canada",TRUE
+48.6899018640158,9.221961977436848,1,"B312, 70794 Filderstadt, Germany",TRUE
+48.725299196598975,2.35944020034873,1,"Air France, Avenue O, 94390 Orly, France",TRUE
+48.792799354443346,-122.53800236008126,1,"4190 Mitchell Way, Bellingham, WA 98226, USA",TRUE
+49.01279795903973,2.550000233431291,1,"Unnamed Road, France",TRUE
+49.02529989812948,-122.36099850843149,1,"1275 Townline Rd, Abbotsford, BC V2T 6E1, Canada",TRUE
+49.05496765276135,-123.86985994359672,1,"Nanaimo Airport (YCD), 3350 Spitfire Way, Cassidy, BC V0R 1H0, Canada",TRUE
+49.19389845892467,-123.18400081493535,1,"3880 Grant McConachie Way, Richmond, BC V7B 1K2, Canada",TRUE
+49.210800713881035,-57.39140043951171,1,"1 Airport Rd, Deer Lake, NL A8A 1A3, Canada",TRUE
+49.49870054677837,11.066897536913999,1,"Unnamed Road, 90427 Nürnberg, Germany",TRUE
+49.626596185807465,6.211521400682525,1,"Unnamed Road, 5213 Sandweiler, Luxembourg",TRUE
+49.7107980633799,-124.8870032694027,1,"Payne Rd, Comox, BC V9M 3T2, Canada",TRUE
+49.81249807201562,23.956098800397488,1,"Unnamed Road, L'viv, L'vivs'ka oblast, Ukraine, 79000",FALSE
+49.90999830001303,-97.23989889361654,1,"Winnipeg James Armstrong Richardson International Airport (YWG), 2000 Wellington Ave, Winnipeg, MB R3H 1C2, Canada",TRUE
+49.95609848420926,-119.37799688048598,1,"Kelowna International Airport, 5533 Airport Way, Kelowna, BC V1V 1S1, Canada",TRUE
+50.026400405671815,8.543127311343799,1,"Cargo City South, Hangar 7 (Geb. 520), Frankfurt Airport, 60549 Frankfurt am Main, Germany",TRUE
+50.07770304664783,19.784799894084507,1,"John Paul II Kraków-Balice International Airport (KRK), Kapitana Mieczysława Medweckiego 1, 32-083 Balice, Poland",TRUE
+50.10079897536954,14.260002788333981,1,"Václav Havel Airport Prague (PRG), Aviatická, 161 08 Praha 6, Czechia",TRUE
+50.11000067755934,22.018997249995586,1,"Unnamed Road, Jasionka, Poland",TRUE
+50.34499931723225,30.894697913523075,1,"Hotel, Kyivs'ka oblast, Ukraine",TRUE
+50.401699220638406,30.449698782778814,1,"Unnamed Road, Kyiv, Ukraine, 02000",TRUE
+50.431899826019745,-104.6659991467292,1,"Regina Airport, 1-5201 Regina Ave, Regina, SK S4W 1B3, Canada",TRUE
+50.47429870285942,19.079998780716128,1,"Unnamed Road, 42-625 Pyrzowice, Poland",TRUE
+50.702204125028615,-120.44400204706074,1,"Kamloops Airport, 3035 Airport Rd, Kamloops, BC V2B 7X1, Canada",TRUE
+50.8658981670975,7.142738245952748,1,"Unnamed Road, Germany",TRUE
+50.901404361661754,4.484437530085829,1,"Brussels Airport (BRU), Leopoldlaan, 1930 Zaventem, Belgium",TRUE
+51.102701623825055,16.88579960848313,1,"Władysława Zarembowicza 38, 54-530 Wrocław, Poland",TRUE
+51.11389721914191,-114.01999924805394,1,"Aero Rd NE, Calgary, AB T2E 8E5, Canada",TRUE
+51.13279909680328,13.76720178874196,1,"Dresden Airport (DRS), Flughafenstraße, 01109 Dresden, Germany",TRUE
+51.14810279951123,-0.1902792837629464,1,"0PE, Perimeter Rd S, Lowfield Heath, Gatwick RH11 0PX, UK",TRUE
+51.38270036872755,-2.719091537930299,1,"Bristol Airport (BRS), Bristol BS48 3DY, UK",TRUE
+51.39670345724054,-3.343329055725331,1,"Airport transfers Cardiff airport, 27 Shamrock Rd, Rhoose, Cardiff CF5 3TW, UK",TRUE
+51.432398727877185,12.241598526803019,1,"Kurzer Weg, 04435 Schkeuditz, Germany",TRUE
+51.450097394168786,5.374527464821563,1,"Eindhoven Airport, Luchthavenweg 25, 5657 EA Eindhoven, Netherlands",TRUE
+51.47059782407857,-0.46194149274627494,1,"London Heathrow Airport, Terminal 3, Nelson Rd, London, Longford, Hounslow TW6 1QG, UK",TRUE
+51.505296148151686,0.05527896807422183,1,"15 Royal Albert Quay, Royal Docks, London E6, UK",TRUE
+51.8413015175282,-8.491108473123871,1,"Avenue 2000, Ballyduhig North, Co. Cork, Ireland",TRUE
+51.88500100856284,0.23499863967290716,1,"London Stansted Airport (STN), Bassingbourn Rd, Stansted CM24 1QW, UK",TRUE
+51.9569014822738,4.437220078189099,1,"Rotterdam Airportplein 60, 3045 AP Rotterdam, Netherlands",TRUE
+52.16569876197537,20.967098304336957,1,"Warsaw Chopin Airport, Żwirki i Wigury, 00-001 Warszawa, Poland",TRUE
+52.170798086352036,-106.6999993194436,1,"2555 Airport Rd, Saskatoon, SK S7L 7L1, Canada",TRUE
+52.30860016565895,4.763891965082937,1,"Havenmeesterweg 1, 1118 CB Schiphol, Netherlands",TRUE
+52.380002166088154,13.522497244019537,1,"Ringstraße, 12529 Schönefeld, Germany",TRUE
+52.421003025907716,16.82629794145879,1,"Poznań Airport, Bukowska 285, 60-189 Poznań, Poland",TRUE
+52.45389653292618,-1.748031207586677,1,"2 Hangar Rd, Birmingham B26, UK",TRUE
+52.46110434198892,9.68507803366314,1,"Heinz-Peter-Piper-Straße 8, 30855 Langenhagen, Germany",TRUE
+52.55969891937503,13.287699139574928,1,"Berlin-Tegel Airport (TXL), Saatwinkler Damm, 13405 Berlin, Germany",TRUE
+52.701998717373726,-8.924820335304052,1,"Shannon Airport (SNN), Co. Clare, Ireland",TRUE
+53.04749799741556,8.786668751742107,1,"Bremen Airport (BRE), Flughafenallee 20, 28199 Bremen, Germany",TRUE
+53.309700673201284,-113.58000203886117,1,"Airport Rd, Calmar, AB T0C 0V0, Canada",TRUE
+53.333598742836195,-2.8497201856421754,1,"South Terminal, Speke Hall Ave, Liverpool Airport, Speke, Liverpool L24 1YD, UK",TRUE
+53.35369810228938,-2.274951843878739,1,"Altrincham Rd, Wilmslow SK9 4LJ, UK",TRUE
+53.42130139253686,-6.270071957766943,1,"R108, Co. Dublin, Ireland",TRUE
+53.63040233986986,9.988230003066858,1,"Flughafenstraße 1, 22335 Hamburg, Germany",TRUE
+53.86589945282453,-1.6605692001599572,1,"Southside Aviation Leeds Bradford Airport, Yeadon, Leeds LS19 7UG, UK",TRUE
+53.88249804014947,28.03069961962624,1,"M2, Minsk, Belarus",FALSE
+53.8894021815808,-122.679001543885,1,"3940 Satellite Rd, Prince George, BC V2N 4M6, Canada",TRUE
+54.37760233007792,18.46620055394838,1,"Lech Walesa Airport, ul. Słowackiego 200, 80-298 Gdańsk, Poland",TRUE
+54.618101364584085,-5.872502273303617,1,"George Best Belfast City Airport (BHD), Belfast BT3 9JH, UK",TRUE
+54.634104075802085,25.28580206260325,1,"Unnamed Road, Vilnius, Lithuania",TRUE
+54.65750367215523,-6.215830043301909,1,"4 Ballysessy Cl, Glenavy, Crumlin BT29 4ZP, UK",TRUE
+55.012599995265504,82.65070320409016,1,"Novosibirsk International Airport (Tolmachevo) (OVB), Ob, Novosibirskaya oblast', Russia, 633104",TRUE
+55.03750074104189,-1.6916693492796584,1,"Unnamed Road, Newcastle upon Tyne NE13 8BY, UK",TRUE
+55.179697406637466,-118.88500107524362,1,"10814 Airport Dr, Grande Prairie, AB T8V 7Z8, Canada",FALSE
+55.35560117932057,-131.71400166319273,1,"Alaska Airlines - Ketchikan, Terminal Building, 1000 Airport, Ketchikan, AK 99901, USA",TRUE
+55.408800310598465,37.90629757932628,1,"Domodedovo Moscow Airport (DME), Moskovskaya oblast', Russia",TRUE
+55.437196098925156,-5.6863883927112715,1,"Unnamed Road, Campbeltown PA28, UK",TRUE
+55.59149936273184,37.26150233584195,1,"M3, Moskva, Moskovskaya oblast', Russia, 119027",TRUE
+55.617901257931464,12.65600171128729,1,"Mærskvej 11, 2791 Dragør, Denmark",TRUE
+55.74029650212731,9.151780377111272,1,"Passagerterminalen 10, 7190 Billund, Denmark",TRUE
+55.871899178090906,-4.433060404596449,1,"Walkinshaw Rd, Paisley PA4 9LP, UK",TRUE
+55.94999905514519,-3.3724983370754416,1,"Unnamed Road, Kirkliston EH29 9ES, UK",TRUE
+55.97259651058515,37.414602388278865,1,"Sheremetyevo - A.S. Pushkin international airport, Khimki, Moskovskaya oblast', Russia, 141400",TRUE
+56.65329901909032,-111.22199996257822,1,"Fort McMurray International Airport (YMM), 100 Snow Bird Way, Fort McMurray, AB T9H 0G3, Canada",TRUE
+56.743098694321176,60.80269947847341,1,"Koltsovo Airport (SVX), ul. Bahchivandji, 1, Yekaterinburg, Sverdlovskaya oblast', Russia, 620025",TRUE
+56.92359758852124,23.971098835474013,1,"Riga International Airport (RIX), P133, Mārupe, LV-1053, Latvia",TRUE
+57.0470986412617,-135.36200102647885,1,"Mount Edgecumbe NDB IME 414, Airport Rd, Sitka, AK 99835, USA",TRUE
+57.092757647955665,9.849241901124023,1,"Lufthavnsvej, 9430 Vadum, Denmark",TRUE
+57.20190037835014,-2.1977801584525682,1,"Aberdeen Airport (ABZ), Dyce, Aberdeen AB21 7DU, UK",TRUE
+57.66279908790927,12.279797623004391,1,"Unnamed Road, 438 70 Härryda, Sweden",TRUE
+57.74999753475023,-152.4940005995297,1,"Taxiway, Kodiak, AK 99615, USA",TRUE
+58.35500085936273,-134.5760060639625,1,"1871 Shell Simmons Dr, Juneau, AK 99801, USA",TRUE
+58.876701850141146,5.637778653372371,1,"Ljosheimvegen, 4050 Sola, Norway",TRUE
+59.186700665196675,10.258603057011143,1,"Vatakerveien 15, 3241 Sandefjord, Norway",TRUE
+59.35439968225352,17.941697799551772,1,"Bromma Stockholm Airport (BMA), Ulvsundavägen, 168 67 Stockholm, Sweden",TRUE
+59.413299743592965,24.832798711461013,1,"Tallinn Airport, Tartu maantee 101, 10112 Tallinn, Estonia",TRUE
+59.65190228779724,17.918601870830045,1,"Unnamed Road, 190 60 Stockholm-Arlanda, Sweden",TRUE
+59.80029835673613,30.26250201195368,1,"Pulkovskoye Shosse, д.41, Sankt-Peterburg, Russia, 196210",TRUE
+60.193903173257155,11.100398379195301,1,"Postboks 201, 2030 Gardermoen, Norway",TRUE
+60.29339729438162,5.218138634640606,1,"Fleslandsvegen 159, 5258 Blomsterdalen, Norway",TRUE
+60.31719796119136,24.96330130845796,1,"Lentoasemantie 1, 01530 Vantaa, Finland",TRUE
+60.573103830808584,-151.24499271319016,1,"Kenai Municipal Airport (ENA), 305 N Willow St, Kenai, AK 99611, USA",TRUE
+60.7095995663426,-135.06700224649987,1,"60 Lodestar Ln, Whitehorse, YT Y1A 6E6, Canada",TRUE
+60.77979835540203,-161.83799685775145,1,"Bethel Airport (BET), Bethel, AK 99559, USA",TRUE
+62.46279885324135,-114.44000023019665,1,"1 Yellowknife Hwy, Fort Smith, Unorganized, NT X0E, Canada",TRUE
+63.79180310693706,20.282803350456312,1,"Umeå Airport, Flygplatsvägen 32, 904 22 Umeå, Sweden",TRUE
+63.98499874587721,-22.605602899806428,1,"Unnamed Road, Iceland",TRUE
+64.81509999946275,-147.85600465077087,1,"Tundra Copter Heliport, Fairbanks, AK 99709, USA",TRUE
+66.88469803998866,-162.59899940124424,1,"Air Force Rd, Kotzebue, AK 99752, USA",TRUE
+68.49130034542524,16.678102407748206,1,"Flyplassveien 72, 8536, Norway",TRUE
